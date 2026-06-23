@@ -1,0 +1,2 @@
+raw_dataset_size,final_dataset_size,duplicates_removed,mean_price,median_price,mean_area,max_price,min_price
+24978,779,24199,10.959486521181002,6.4,107.39473684210526,200.0,0.125

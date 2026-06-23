@@ -1,0 +1,780 @@
+Location,Price,Type of House,Land Area,Bedrooms,Toilets,Total Floors,Main Door Direction,Balcony Direction,Legal Documents,fingerprint
+"Phường 15, Quận Bình Thạnh",4.16,"Nhà hẻm, ngõ",36.0,4.0,3.0,2.0,,,Sổ hồng,e35b7896871501c265ddb2f0f8cc9029
+"Xã Tân Kiên, Huyện Bình Chánh",1.0,Nhà mặt tiền,93.9,3.0,2.0,1.0,,,Sổ hồng,94f48799ba77367569849197a1e5d8ae
+"Phường Thạnh Xuân, Quận 12",6.5,"Nhà hẻm, ngõ",138.0,3.0,3.0,2.0,,,Sổ hồng,dfb84b104bf29e77a761bb7d522bc55a
+"Phường 5, Quận Gò Vấp",23.0,"Nhà hẻm, ngõ",135.0,21.0,21.0,5.0,Tây Nam,,Sổ hồng,9d477ad3e1b9c69d37afa1e101358855
+"Xã Phạm Văn Hai, Huyện Bình Chánh",38.0,Nhà mặt tiền,900.0,,,,Đông Nam,,Sổ hồng,6b29e6c26cb59700b4b66dc3e2ab86e6
+"Phường 1, Quận Tân Bình",6.5,Đất thổ cư,48.0,,,,,,Sổ hồng,33ac89697287992ed061d9d1a126764c
+"Phường 14, Quận 3",43.5,"Biệt thự, Villa",160.0,9.0,9.0,5.0,,,Giấy tờ hợp lệ,b885bba9e7949f0ace7db371134ae484
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",19.0,Nhà mặt tiền,120.0,3.0,5.0,,Tây Bắc,,Sổ hồng,8be170c793970ad5d2eba8370181dc83
+"Phường An Phú Đông, Quận 12",9.6,Nhà mặt tiền,100.1,,,,,,Sổ hồng,a3c62ef652a2efbae7843f28a2f2411f
+"Phường 11, Quận Phú Nhuận",1.49,"Nhà hẻm, ngõ",11.0,1.0,1.0,,Đông,Đông,Sổ hồng,870d3899de1d1f2678d1965f3eab3dff
+"Phường 15, Quận Tân Bình",1.86,"Nhà hẻm, ngõ",16.0,2.0,2.0,3.0,Tây Nam,Tây Nam,Sổ hồng,2a42d35835840a9066e7078cdee9ea7e
+"Phường Tân Phong, Quận 7",19.5,Nhà mặt tiền,90.0,5.0,4.0,4.0,,Bắc,Sổ hồng,18ad383faf45deabec23510a135c4633
+"Phường 9, Quận Phú Nhuận",17.0,Nhà mặt tiền,67.0,,,,,,Sổ hồng,f97d30cbcd25ed25d1c0466fad33c00f
+"Phường 5, Quận Phú Nhuận",1.0,"Nhà hẻm, ngõ",10.0,2.0,2.0,2.0,,,Sổ hồng,8b8b2a0c467bd4f518348e6380dd6cd8
+"Phường 5, Quận Bình Thạnh",8.6,"Nhà hẻm, ngõ",51.8,4.0,5.0,4.0,Tây Nam,Tây Nam,Sổ hồng,b79b9997291e057c5c84d2453a515f2d
+"Phường 24, Quận Bình Thạnh",7.09,"Nhà hẻm, ngõ",32.0,4.0,3.0,3.0,,,Sổ đỏ,72760a09bfa76d44b14348427bddef6d
+"Phường 22, Quận Bình Thạnh",18.1,Nhà mặt tiền,80.0,,,,,,Sổ hồng,7bfcc4dc249ef2a259d5b21c81811db0
+"Phường 13, Quận Phú Nhuận",12.5,"Nhà hẻm, ngõ",66.0,4.0,5.0,4.0,Đông Bắc,Đông Bắc,Sổ hồng,0a12d1683c69a35d9e3c422a0b1b354b
+"Phường Linh Xuân, TP. Thủ Đức - Quận Thủ Đức",24.0,"Nhà hẻm, ngõ",840.0,38.0,,,,,Sổ hồng,bbf792b1f409a01638af06d1b6ec597a
+"Phường Linh Tây, TP. Thủ Đức - Quận Thủ Đức",2.59,Nhà mặt tiền,23.5,2.0,2.0,1.0,,,Sổ hồng,2ae2febc5ade325a99b789cd449985bd
+"Phường 5, Quận Tân Bình",5.9,"Nhà hẻm, ngõ",60.2,3.0,3.0,3.0,Đông,Đông,Sổ đỏ,9b1179a6f3973c5fd99fc3b6e3b4a811
+"Phường Tăng Nhơn Phú A, TP. Thủ Đức - Quận 9",3.1,Đất thổ cư,71.0,,,,,,Sổ hồng,4a53aca2ff775d734fd4c88250a090b1
+"Phường 1, Quận Gò Vấp",4.9,"Nhà hẻm, ngõ",40.0,3.0,4.0,4.0,Tây Bắc,Tây Bắc,Sổ hồng,5f6bd5383819c823848a3bf602fb839b
+"Phường 13, Quận 10",4.7,"Nhà hẻm, ngõ",41.0,4.0,1.0,3.0,,,Sổ hồng,afc6182c5e36e4ce3e2c5ebe6e79e3ab
+"Phường Phú Mỹ, Quận 7",16.0,Nhà mặt tiền,90.0,5.0,5.0,3.0,Bắc,Bắc,Sổ hồng,8204d83e19076ccbb6de5e4d049db26d
+"Phường 12, Quận Gò Vấp",8.55,"Nhà hẻm, ngõ",70.0,4.0,5.0,4.0,Tây Bắc,Tây Bắc,Sổ hồng,8e89514bfc84b796405e90e0892d046f
+"Phường An Khánh, TP. Thủ Đức - Quận 2",20.0,Nhà mặt tiền,136.0,2.0,2.0,,Nam,Nam,Sổ hồng,e0fe9f9d9ce08a03b1aa9654edb7e08a
+"Xã Thới Tam Thôn, Huyện Hóc Môn",0.99,"Nhà hẻm, ngõ",50.0,2.0,2.0,1.0,,,Giấy tờ hợp lệ,cfb824f0af3fb9d8e12b379bc82460bb
+"Phường Linh Tây, TP. Thủ Đức - Quận Thủ Đức",3.25,"Nhà hẻm, ngõ",59.0,5.0,2.0,2.0,,,Sổ hồng,eddb686c5d5920f4d6fd3fd279103f10
+"Phường 15, Quận Bình Thạnh",19.0,"Nhà hẻm, ngõ",54.5,9.0,9.0,7.0,,,Sổ hồng,3ca86ba7e743b3d57c8119b09a1358ee
+"Phường Linh Chiểu, TP. Thủ Đức - Quận Thủ Đức",4.59,"Nhà hẻm, ngõ",64.2,,,2.0,,,Sổ hồng,59b622ce785ac91c93f8384e69f491f5
+"Phường 7, Quận Phú Nhuận",5.99,Nhà mặt tiền,47.0,6.0,3.0,,Đông Nam,Đông,Sổ hồng,f1626e9c25d74b198fd0247e0efa6fc2
+"Phường 15, Quận Tân Bình",8.7,"Nhà hẻm, ngõ",56.0,,,5.0,,,Sổ hồng,9642cccb22081cc82ea8301565aa7f1e
+"Phường 16, Quận Gò Vấp",4.66,"Nhà hẻm, ngõ",37.0,,,,Bắc,,Sổ hồng,33c2f8364cabc9f3b4ecb4418940aafd
+"Phường Phú Mỹ, Quận 7",16.0,Nhà mặt tiền,90.0,5.0,5.0,4.0,Đông Bắc,,Sổ hồng,e8e182992aae0978674647428521b968
+"Phường Bình Hưng Hòa A, Quận Bình Tân",9.0,Nhà mặt tiền,40.0,1.0,1.0,,Bắc,Bắc,Sổ hồng,deb453360a55f470a27af612c059bcd2
+"Xã Tân Hiệp, Huyện Hóc Môn",5.7,"Nhà hẻm, ngõ",108.5,3.0,3.0,1.0,Nam,,Sổ hồng,52549ef6279feb12ac5782f5664040de
+"Phường 13, Quận Bình Thạnh",45.0,Nhà mặt tiền,150.0,6.0,7.0,3.0,,,Sổ hồng,b3a1830901db597a2ab9893d764f09b9
+"Phường Sơn Kỳ, Quận Tân Phú",16.0,"Nhà hẻm, ngõ",128.8,,1.0,,Nam,,Sổ hồng,cd908c7a7148470c186fc0cba7601ef0
+"Phường 5, Quận Phú Nhuận",2.62,"Nhà hẻm, ngõ",15.0,2.0,3.0,3.0,Tây Nam,Tây Nam,Sổ hồng,2ec73b945305c4d72ebe0eef1c2850c2
+"Phường 15, Quận Tân Bình",4.5,"Nhà hẻm, ngõ",46.0,2.0,2.0,2.0,,,Sổ đỏ,d49547ba944f0856918f992da7009499
+"Xã Bình Mỹ, Huyện Củ Chi",3.0,Đất thổ cư,165.0,,,,,,Sổ hồng,3b793345e8ee89a3c3b3ea300d77ec08
+"Phường Tân Định, Quận 1",7.1,"Nhà hẻm, ngõ",40.0,3.0,4.0,3.0,,,Sổ hồng,2f73ffdd2920adbf0616e7c9c4d34d4d
+"Phường 10, Quận 6",12.7,Nhà mặt tiền,72.0,5.0,6.0,,,,Sổ hồng,4d54ed09dc7ab7d1f522c97d7537ea92
+"Phường Phú Hữu, TP. Thủ Đức - Quận 9",8.18,"Đất dự án, Khu dân cư",148.0,,,,Nam,,Hợp đồng mua bán,a1b4be50496530c8c36846e80773c46a
+"Phường 12, Quận 6",5.75,"Nhà hẻm, ngõ",64.0,4.0,2.0,1.0,,Nam,Sổ hồng,227a428f39b09f34d350ecfd59386846
+"Phường 10, Quận Phú Nhuận",9.95,"Nhà hẻm, ngõ",75.0,3.0,4.0,3.0,Nam,Nam,Sổ hồng,5958f7585627ccc03c711f44d249b10f
+"Phường 10, Quận Phú Nhuận",8.39,"Nhà hẻm, ngõ",40.0,3.0,4.0,4.0,Đông Nam,Đông Nam,Sổ hồng,4b0c85a8eac14dbd57344ac03e3b35ef
+"Phường Bình Trị Đông A, Quận Bình Tân",3.89,"Nhà hẻm, ngõ",48.0,2.0,2.0,,,,Sổ hồng,48ac69ca1ac9cebd699c16756789cc1b
+"Huyện Nhà Bè, TP.HCM",10.0,Nhà mặt tiền,80.0,,,,,,Sổ hồng,04a00fe68b92e0064b0dc117f303b612
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",26.5,"Nhà hẻm, ngõ",117.0,5.0,6.0,,Tây,Tây,Sổ hồng,878fc718c40ec9469e3ae1e77f446d0b
+"Phường 8, Quận Phú Nhuận",21.0,Nhà mặt tiền,38.0,6.0,7.0,7.0,Tây Nam,Tây Nam,Sổ hồng,d947a1a7b9748dc6d8b5e4a71f41954d
+"Phường 13, Quận Bình Thạnh",4.25,"Nhà hẻm, ngõ",36.0,5.0,3.0,,Tây,Nam,Sổ hồng,03fece1be22b8efb869492d287774c79
+"Phường Thạnh Lộc, Quận 12",8.5,"Nhà hẻm, ngõ",150.2,,,,,,Sổ hồng,8c445d21fc910f0696aa64ea2b681765
+"Phường 12, Quận Tân Bình",59.0,Nhà mặt tiền,170.0,2.0,3.0,3.0,Đông,Đông,Sổ hồng,39b9d5d881847e00fc1bba83d62d44cd
+"Phường 13, Quận 10",30.0,Nhà mặt tiền,61.5,,,7.0,,,Sổ hồng,4fe45ed62b25fd09df371631b0621008
+"Phường An Lạc A, Quận Bình Tân",25.0,Nhà mặt tiền,168.0,,,3.0,,,Sổ hồng,67c53cb8126e154afaaeacfd9fb81711
+"Phường 15, Quận Tân Bình",4.75,"Nhà hẻm, ngõ",35.0,3.0,2.0,3.0,Tây Nam,Tây Nam,Sổ hồng,d1b8ed8635edcc9e0c8ea3810c8e6314
+"Phường 13, Quận Tân Bình",75.0,Nhà mặt tiền,260.0,8.0,8.0,7.0,Đông Nam,Đông Nam,Sổ hồng,d766bb7cfbe521a6cf2b0c902f28a704
+"Phường 16, Quận 8",9.0,Nhà mặt tiền,100.0,,,,,,Giấy tờ hợp lệ,aef6f745c4f2a5cc3a4bc34f99f35f2b
+"Phường 9, Quận 10",21.0,Nhà mặt tiền,40.8,,,,,,Sổ hồng,ed72e7d743e3df00f90956aa9e1615d7
+"Phường 7 (Phường Võ Thị Sáu), Quận 3",100.0,Nhà mặt tiền,300.0,,,,,,Sổ hồng,d40bf009a0bbd57e367533c7f0518ffe
+"Phường Nguyễn Cư Trinh, Quận 1",24.0,"Nhà hẻm, ngõ",100.0,6.0,7.0,5.0,Tây Nam,Tây Nam,Sổ hồng,6c3a1dc6f7a73a193732cf236697be86
+"Phường 14, Quận 10",26.0,Nhà mặt tiền,120.0,,,5.0,,,Sổ hồng,42f89daf177cd837e5eca106002227de
+"Xã Tân Phú Trung, Huyện Củ Chi",0.71,"Nhà hẻm, ngõ",225.0,,,,,,Sổ hồng,fe3dedb8d3fe8226a831be7f001ef3b9
+"Phường 10, Quận Phú Nhuận",9.95,"Nhà hẻm, ngõ",75.0,3.0,3.0,,,,Sổ đỏ,1e63a7e75a850bbb01e9b61ae62412c0
+"Phường 8, Quận Phú Nhuận",2.26,Nhà mặt tiền,14.0,1.0,1.0,2.0,,,Sổ hồng,8e435bd566ff7dd04b63c7e24d51f70b
+"Phường Phú Thạnh, Quận Tân Phú",28.0,Nhà mặt tiền,256.0,,,1.0,,,Sổ hồng,97e55b483ddcaa8c2d2027880e7b644a
+"Phường 10, Quận Tân Bình",8.5,"Nhà hẻm, ngõ",60.0,4.0,4.0,3.0,,,Sổ hồng,7bf1a8187c804998ee502473f8843940
+"Phường Tân Quy, Quận 7",4.6,"Nhà hẻm, ngõ",40.0,5.0,6.0,5.0,Đông,,Sổ hồng,ced0257fbf086b3efddf41c0866f5215
+"Phường 12, Quận Gò Vấp",6.5,"Nhà hẻm, ngõ",56.0,,5.0,3.0,,,Sổ hồng,4c7043b22cf680fe22c0d403c2dbc8b1
+"Phường 3, Quận Phú Nhuận",7.6,"Nhà hẻm, ngõ",44.0,,,,,,Sổ hồng,8482f74fdd4fa1c7a9529c90057c431d
+"Phường 11, Quận Tân Bình",17.0,Nhà mặt tiền,62.8,,,,,,Sổ hồng,659ac8c872a65bb778270bca6efd3a6b
+"Xã Phú Xuân, Huyện Nhà Bè",1.15,"Nhà hẻm, ngõ",22.4,3.0,2.0,2.0,Đông Nam,,Sổ hồng,176e3dd1e5317ecffc2e3572cbcd2756
+"Phường 13, Quận Tân Bình",23.5,Nhà mặt tiền,125.0,10.0,5.0,3.0,,,Sổ hồng,95b1c81e9cdbf19bdce2ab73768eea1e
+"Phường Tân Quý, Quận Tân Phú",12.0,Nhà mặt tiền,104.0,,,,,,Sổ hồng,8ffa83ddc21ccf74f9ff8103d8c74100
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",6.4,Nhà mặt tiền,68.0,2.0,2.0,2.0,,,Sổ hồng,e704856abead5f19d0c634da8cb0cee8
+"Phường 5, Quận 10",8.5,"Nhà hẻm, ngõ",50.0,2.0,2.0,,,,Sổ đỏ,06d62864ce67b74e36fe4ae2737c300d
+"Phường Thạnh Mỹ Lợi, TP. Thủ Đức - Quận 2",5.0,Nhà mặt tiền,90.0,,,,,,Sổ hồng,e82a8c34726535d780b8b0303e2cf4c7
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",28.0,Nhà mặt tiền,77.0,4.0,3.0,2.0,Bắc,,Sổ hồng,0077aa99988b04aec3f5e977ad2b213e
+"Phường 14, Quận Bình Thạnh",4.75,"Nhà hẻm, ngõ",29.7,3.0,2.0,2.0,,,Sổ hồng,ffe8ec229d180f68169f6bb0bdda1c58
+"Phường 9, Quận 8",2.55,"Nhà hẻm, ngõ",69.0,1.0,2.0,,,,Sổ hồng,03d12510b51433485c27032827aa27de
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",1.79,"Nhà hẻm, ngõ",25.6,4.0,3.0,,,,Giấy tờ hợp lệ,13ee847928d055650059a35fde3a8fee
+"Phường Tăng Nhơn Phú B, TP. Thủ Đức - Quận 9",6.0,"Nhà hẻm, ngõ",80.0,4.0,5.0,3.0,,,Sổ hồng,986ff46f7db7ca6afd04afd66941d8dd
+"Phường 6, Quận 10",5.5,"Nhà hẻm, ngõ",35.0,4.0,3.0,,Đông,,Sổ hồng,4a142764e6d497021831f7dbea269312
+"Phường 5, Quận Phú Nhuận",11.3,Nhà mặt tiền,41.0,,,,,,Sổ hồng,ec41d24dd2b18bd2eb45113e41ac567a
+"Phường Hiệp Thành, Quận 12",3.85,Đất thổ cư,96.0,,,,,,Sổ hồng,098c27c295d2e865c47ebdb1c5d0c4c9
+"Phường 5, Quận Phú Nhuận",4.5,"Nhà hẻm, ngõ",18.0,,,,,,Sổ hồng,059315ece7fcac2d631a455eb0e02fb7
+"Phường Tân Quy, Quận 7",18.0,Nhà mặt tiền,80.0,,,,,,Sổ hồng,87074ad6eb5ad40c05849703cdda941d
+"Phường 7, Quận 5",9.8,"Nhà hẻm, ngõ",44.2,,,4.0,,,Sổ hồng,631f36161a3cb7e87f270cd4559c044b
+"Phường 3, Quận 5",25.0,"Nhà hẻm, ngõ",104.0,,,,,,Sổ hồng,9c60f4cb1bd92f9cd36fdc3beca81c41
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",3.19,"Nhà hẻm, ngõ",40.0,,,,,,Giấy tờ hợp lệ,5d8f013cfca6c5907cc9c16eafe22f40
+"Phường 5, Quận Bình Thạnh",1.75,"Nhà hẻm, ngõ",53.6,3.0,3.0,2.0,,,Sổ hồng,cbe423078077f344b6c3eedaad58e943
+"Phường 7, Quận Bình Thạnh",45.0,Nhà mặt tiền,140.0,,,5.0,,,Sổ hồng,bd1b0e460bf309c0890434c97b602137
+"Xã Phước Vĩnh An, Huyện Củ Chi",8.0,Nhà mặt tiền,321.9,3.0,2.0,,,,Sổ hồng,1ddb0d4506a9221e3aab5cb7e7d14e14
+"Phường 12, Quận 10",29.5,Nhà mặt tiền,80.0,,,4.0,,,Sổ hồng,7f423b5c7edc723e47bb9cc27b6fca51
+"Phường Tân Quý, Quận Tân Phú",6.0,"Nhà hẻm, ngõ",54.4,,,,,,Sổ hồng,cff75ba5bfebc0b4f7505efa2f92ef39
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",1.9,"Nhà hẻm, ngõ",19.5,2.0,3.0,,,,Giấy tờ hợp lệ,ee913068ba46bef3a68e34a3bb581e6b
+"Phường 12, Quận Bình Thạnh",11.5,"Biệt thự, Villa",120.0,4.0,3.0,,,,Sổ hồng,816e557f6f3cb396fa1324284ddb4d34
+"Phường 2, Quận Phú Nhuận",23.0,Nhà mặt tiền,64.0,5.0,6.0,4.0,,,Sổ đỏ,df6847f1cec9a714a15a12f949be1175
+"Phường 9, Quận Gò Vấp",7.4,"Nhà hẻm, ngõ",48.0,,,,,,Sổ hồng,6ff17bd34e336af34d4c7425d9c5bf80
+"Phường Tây Thạnh, Quận Tân Phú",6.0,"Nhà hẻm, ngõ",53.0,5.0,5.0,5.0,Tây,Tây,Sổ hồng,95a93ec9e602a77f95062a315a40af09
+"Phường 9, Quận Tân Bình",5.8,"Nhà hẻm, ngõ",41.0,4.0,3.0,4.0,Đông,Đông,Sổ hồng,9b392c5f37956dccac471537d7f8af8f
+"Phường 13, Quận Bình Thạnh",21.0,Nhà mặt tiền,109.0,3.0,4.0,3.0,Tây Nam,,Sổ hồng,2004687f0dbb69bbbd27618240ce7046
+"Phường Phú Thọ Hòa, Quận Tân Phú",32.0,Nhà mặt tiền,168.0,,,5.0,,,Sổ hồng,19133446732b6305d96ecc472c2727d4
+"Phường 19, Quận Bình Thạnh",22.5,Nhà mặt tiền,56.0,5.0,4.0,4.0,Nam,Nam,Sổ hồng,7e4f9d9ab0749f75f37cd35d7a2b6e03
+"Phường Tân Sơn Nhì, Quận Tân Phú",75.0,Nhà mặt tiền,305.0,2.0,2.0,2.0,Đông Nam,Đông Nam,Sổ hồng,c9236af756985edf8824cc4e1fadd117
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",2.15,"Nhà hẻm, ngõ",28.8,3.0,2.0,,,,Giấy tờ hợp lệ,d8bb5d883fa33f4e47a21866df0738de
+"Phường Bình Trị Đông B, Quận Bình Tân",7.5,"Nhà hẻm, ngõ",68.0,,,,,,Sổ hồng,eaaa4a6cd06166910781c0b5501dbfb0
+"Phường 2, Quận 5",8.0,"Nhà hẻm, ngõ",62.0,3.0,3.0,,,,Sổ hồng,be0a08ac7e68c55de29a241e0292e12c
+"Phường Đa Kao, Quận 1",15.099,"Nhà hẻm, ngõ",118.5,5.0,4.0,3.0,,,Sổ đỏ,5cd623fd79210696ee0eebad3ac86a1d
+"Phường An Lạc, Quận Bình Tân",3.53,Đất thổ cư,63.0,,,,,,Sổ hồng,b6f53174ee9657b3befa03e13848926b
+"Phường 2, Quận Phú Nhuận",5.3,Nhà mặt tiền,58.0,4.0,4.0,4.0,,,Sổ hồng,8e2f4d929d0e4009fcd91da46ed124b2
+"Xã Phước Kiển, Huyện Nhà Bè",1.36,"Nhà hẻm, ngõ",22.2,2.0,1.0,1.0,,,Sổ hồng,35564276ea51e79f8ca754f8200704c8
+"Phường Bình Trị Đông B, Quận Bình Tân",7.0,"Nhà hẻm, ngõ",67.5,,,3.0,,,Sổ hồng,a8bcca494af44007e7082decdd318aad
+"Phường Thạnh Lộc, Quận 12",1.85,"Nhà hẻm, ngõ",48.0,3.0,2.0,,Đông Nam,Đông Nam,Giấy tờ hợp lệ,57a57ef87522a414f20828ddca97481f
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",1.9,"Nhà hẻm, ngõ",24.0,2.0,2.0,,,,Giấy tờ hợp lệ,96c2c86576f194f0e4d333cb2ddbd04e
+"Phường Bình Trị Đông A, Quận Bình Tân",11.5,Đất thổ cư,108.0,,,,,,Sổ hồng,065b321186434e5ae25e3e52c1f25056
+"Phường 12, Quận Bình Thạnh",21.0,Nhà mặt tiền,255.0,,,,,,Sổ hồng,be49c43133de1acbb7b071cfa5b38642
+"Phường Tân Chánh Hiệp, Quận 12",3.1,Đất thổ cư,80.0,,,,Bắc,,Sổ hồng,fc7043b57411893d6b6dc637890f9215
+"Phường An Lạc, Quận Bình Tân",7.7,"Nhà hẻm, ngõ",84.0,,,6.0,,,Sổ hồng,3c9a3e033e7b8998f3e73c10656e0052
+"Phường 5, Quận Gò Vấp",13.5,"Nhà hẻm, ngõ",135.7,,,1.0,,,Sổ hồng,793e24c566bfc3adffc0b44382ddf60f
+"Phường Tân Chánh Hiệp, Quận 12",1.79,"Nhà hẻm, ngõ",25.0,2.0,2.0,1.0,,,Sổ hồng,ae9b104a0ecf8bb420d39b1ba9178038
+"Phường 17, Quận Phú Nhuận",17.0,Nhà mặt tiền,43.0,,,,,,Sổ hồng,944320abbda62b033417806a92989cec
+"Phường Sơn Kỳ, Quận Tân Phú",6.0,"Nhà hẻm, ngõ",55.0,3.0,2.0,2.0,Đông Nam,,Sổ hồng,beb993568a1c7ab8868ae3ea63263961
+"Phường 14, Quận Tân Bình",12.6,Nhà mặt tiền,56.0,,,,,,Sổ hồng,be82950e79fd37861cb7e81bd5fb9d40
+"Phường Tân Thới Hòa, Quận Tân Phú",16.5,Nhà mặt tiền,87.4,4.0,5.0,3.0,Tây,,Sổ hồng,6a2e9d6dd0b223a3fbe1cb59694f772b
+"Phường 15, Quận Gò Vấp",6.3,Đất thổ cư,75.0,,,,,,Sổ đỏ,f1d232b2ed6fe336863911f012501f9f
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",1.9,"Nhà hẻm, ngõ",21.0,4.0,2.0,,,,Giấy tờ hợp lệ,ef07c5520061ef1e7803ec21916e8447
+"Phường Linh Tây, TP. Thủ Đức - Quận Thủ Đức",4.8,Đất thổ cư,156.0,,,,,,Sổ hồng,47c669f8630aef72881746495ac1492c
+"Phường Thạnh Lộc, Quận 12",12.0,Đất thổ cư,776.0,,,,,,Sổ hồng,daed09c4e57877fa65f060b3d6e2c87a
+"Phường 3, Quận Bình Thạnh",3.25,Nhà mặt tiền,30.0,,,,,,Sổ hồng,4a1ea80b924e0bae3df24662b654a395
+"Phường Tân Sơn Nhì, Quận Tân Phú",5.5,"Nhà hẻm, ngõ",56.0,2.0,2.0,1.0,,,Sổ hồng,72d242b776bf2ba5a0e8bde5ca3d30a7
+"Xã Quy Đức, Huyện Bình Chánh",8.0,Đất thổ cư,300.0,,,,,,Sổ hồng,267ad398f7e5c55dcc76587758ebca18
+"Phường Bình Thuận, Quận 7",16.0,Nhà mặt tiền,100.0,,,,,,Sổ hồng,c6c2edae7548d21d6459fca86ce91580
+"Phường 12, Quận Tân Bình",8.9,Nhà mặt tiền,63.0,,,,,,Sổ hồng,0cfe1162850b06a1fd4015702903a25e
+"Phường Cô Giang, Quận 1",3.5,"Nhà hẻm, ngõ",25.1,2.0,3.0,3.0,,,Sổ hồng,20ad7b32a85c9a95dedc40491c4af111
+"Phường Thới An, Quận 12",9.0,Nhà mặt tiền,92.0,,,,,,Sổ hồng,eb4649cf0b3cc8d8a7aa66a6a986df5f
+"Xã Xuân Thới Sơn, Huyện Hóc Môn",4.5,Nhà mặt tiền,137.0,,,,,,Sổ hồng,710c3ad68d523f508b774b86fa863f50
+"Phường Phú Thuận, Quận 7",13.5,Nhà mặt tiền,157.0,14.0,,,,,Sổ hồng,47b368692b0b9049c1f08492b9cf5ed1
+"Phường 16, Quận 8",7.0,Nhà mặt tiền,52.0,5.0,5.0,5.0,,,Sổ hồng,d22671b4101b2992beac7cb547697468
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",3.15,"Nhà hẻm, ngõ",36.0,4.0,3.0,,,,Sổ hồng,8d2ecaec542d12179c716732c02cdb09
+"Xã Tân Thạnh Tây, Huyện Củ Chi",4.45,Đất thổ cư,200.0,,,,,,Sổ đỏ,d19069114d62202bdd199b0a93dae661
+"Phường 7, Quận Phú Nhuận",8.6,"Nhà hẻm, ngõ",68.0,4.0,5.0,4.0,,,Sổ hồng,c7114790ddb9d8acd7d9872d7734a4b1
+"Huyện Bình Chánh, TP.HCM",5.5,"Đất dự án, Khu dân cư",100.0,,,,,,Hợp đồng mua bán,1a4f6ae5e645922844f7a3d1d7c00555
+"Phường 11, Quận Tân Bình",9.68,"Nhà hẻm, ngõ",70.7,,,,,,Sổ hồng,8392ff128cdcb440b667bcec1d69e0d0
+"Phường 4, Quận Phú Nhuận",1.0,"Nhà hẻm, ngõ",53.1,3.0,3.0,,,,Sổ hồng,59ff770ad583f42f614e2e232f8782aa
+"Phường 5, Quận Bình Thạnh",57.0,Nhà mặt tiền,296.0,5.0,4.0,,,,Sổ hồng,2234883f7a6bac8ec7fce43130b41823
+"Quận 7, TP.HCM",7.4,Đất thổ cư,50.8,,,,,,Sổ hồng,1f63dd32f5c128ced1e4a466525298d2
+"Phường 4, Quận 3",29.0,Nhà mặt tiền,70.0,6.0,3.0,4.0,,,Sổ hồng,dbbee1035facaef82ae475b2ab015edf
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",3.6,"Nhà hẻm, ngõ",60.0,2.0,1.0,2.0,Đông,,Sổ hồng,d695e8709510666eff6a2e9f051df065
+"Phường 7, Quận 8",11.15,"Nhà hẻm, ngõ",104.0,3.0,3.0,3.0,Đông Bắc,,Sổ hồng,73ba903fbbc16c29c25a97399358cba5
+"Phường 7, Quận Gò Vấp",4.35,"Nhà hẻm, ngõ",32.0,2.0,3.0,3.0,,,Sổ hồng,3733178be77df1fac20ef838d3d58794
+"Phường Tân Thuận Tây, Quận 7",5.3,"Nhà hẻm, ngõ",40.0,3.0,3.0,2.0,,,Sổ hồng,ee0da88f19428c2342d981728cda3dcf
+"Xã Nhơn Đức, Huyện Nhà Bè",4.8,Đất thổ cư,120.0,,,,,,Sổ hồng,dcabef243fe85fc2ea728dde6d693ee1
+"Phường Bình Thuận, Quận 7",23.0,Nhà mặt tiền,150.0,,,,,,Giấy tờ hợp lệ,4e1fc6c59beebda23a4933a036415f9e
+"Phường Tân Sơn Nhì, Quận Tân Phú",17.5,Nhà mặt tiền,92.0,4.0,4.0,1.0,,,Sổ hồng,8705f990c4c571b146789fce5e439522
+"Phường Bình Hưng Hòa A, Quận Bình Tân",3.99,"Nhà hẻm, ngõ",48.0,2.0,2.0,,,,Sổ hồng,2f3abb801d51be329a0bee0c18196e36
+"Phường Hiệp Tân, Quận Tân Phú",17.5,Nhà mặt tiền,96.4,,,4.0,,,Sổ hồng,72e3064398458267c227c81cb77fe368
+"Phường 2, Quận 8",14.5,Nhà mặt tiền,210.0,4.0,3.0,,,,Sổ hồng,8172539d8d249c260f3a027b895bb7ac
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",2.2800000000000002,Nhà mặt tiền,24.0,4.0,3.0,3.0,Đông Bắc,Đông Bắc,Sổ hồng,968943a3769787bc7aca211883783628
+"Xã Bình Hưng, Huyện Bình Chánh",30.0,Nhà mặt tiền,200.0,6.0,7.0,4.0,,,Sổ hồng,ab4a092cf2da85e08fff5185d72b4f57
+"Phường 11, Quận 10",24.0,"Nhà hẻm, ngõ",78.0,5.0,5.0,5.0,,,Sổ hồng,11b3422566950771dcf518616248fd73
+"Phường 2, Quận 3",30.0,Nhà mặt tiền,44.1,5.0,6.0,6.0,,,Sổ hồng,d8b003e2dacbd5eefc9e13951325df05
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",6.5,"Nhà hẻm, ngõ",80.0,4.0,5.0,,,,Giấy tờ hợp lệ,c895b1c0d8d1492a248b6815fa1d9798
+"Phường Phú Thọ Hòa, Quận Tân Phú",8.5,"Nhà hẻm, ngõ",68.0,,,3.0,,,Sổ hồng,af17fa71fd86c926fc4a75fe5429f795
+"Phường 8, Quận Tân Bình",6.0,Đất thổ cư,56.0,,,,,,Đang chờ sổ,283a7656be712d9ce005ecc166436982
+"Phường Phạm Ngũ Lão, Quận 1",17.0,"Nhà hẻm, ngõ",58.7,,,2.0,,,Giấy tờ hợp lệ,fe4b2e6d45415630b1cc127959a16b47
+"Phường Bình Trị Đông, Quận Bình Tân",42.0,Nhà mặt tiền,400.0,,,3.0,,,Sổ hồng,6bf456f39172d600c1e6aad8d5ace8e5
+"Huyện Nhà Bè, TP.HCM",5.99,"Đất dự án, Khu dân cư",80.0,,,,,,Sổ hồng,6e4347139f61b98219a2edae9bb38e76
+"Phường 4, Quận Tân Bình",16.5,"Nhà hẻm, ngõ",120.0,,,,,,Sổ hồng,22f554776f54173f74ded51a9fb06cbc
+"Thị Trấn Hóc Môn, Huyện Hóc Môn",0.75,"Nhà hẻm, ngõ",60.0,,,,,,Sổ hồng,8e1b7bf7b11094e9407b4c979aef5896
+"Phường 11, Quận Gò Vấp",9.9,Nhà mặt tiền,300.0,5.0,6.0,4.0,Tây Nam,Tây Nam,Sổ hồng,ecca5d861f6e6abb1d9d95eb05319a89
+"Phường 8, Quận 10",13.0,"Nhà hẻm, ngõ",60.0,6.0,6.0,4.0,Đông Nam,Đông Nam,Sổ hồng,42dcb6ba0c80f366dbbface0cafed32a
+"Phường 12, Quận Gò Vấp",10.9,"Nhà hẻm, ngõ",72.0,4.0,6.0,4.0,,,Sổ hồng,bee617f342da23b4b63955ef3d9bfacc
+"Phường 12, Quận Tân Bình",23.5,Nhà mặt tiền,84.0,,,6.0,,,Sổ hồng,54ae0af8d2fec5e421ceff76ec667010
+"Phường 14, Quận Tân Bình",2.09,"Nhà hẻm, ngõ",27.0,1.0,1.0,1.0,,,Sổ hồng,92fa903c4a43a297d9e73bed5027c7c9
+"Phường 14, Quận Tân Bình",11.9,Nhà mặt tiền,56.0,5.0,4.0,4.0,,,Sổ hồng,4bafe03bb287e968ce1ed7b5d4cf0377
+"Phường 3, Quận Gò Vấp",3.59,"Nhà hẻm, ngõ",26.0,2.0,2.0,3.0,,,Sổ hồng,700f583749d50ae606351590223c58e8
+"Xã Trung Lập Thượng, Huyện Củ Chi",0.55,Đất thổ cư,161.0,,,,Bắc,,Sổ hồng,ec50d1247497b920a1260748fd36bfe7
+"Xã Thái Mỹ, Huyện Củ Chi",8.5,Đất thổ cư,1640.0,,,,Tây,,Sổ hồng,bfcb0a21638ee419167d91fcc326d6bc
+"Phường 10, Quận Tân Bình",6.95,"Nhà hẻm, ngõ",95.0,4.0,4.0,2.0,,,Sổ hồng,afb0d6882b20529ef861f65396dd375d
+"Phường 1, Quận Bình Thạnh",4.8,"Nhà hẻm, ngõ",47.0,2.0,2.0,2.0,,,Sổ hồng,4c23900969476887bd37838b52e40b34
+"Phường Thạnh Lộc, Quận 12",1.79,"Nhà hẻm, ngõ",47.0,3.0,3.0,3.0,,,Sổ hồng,d97b344ac56b6a6ae7b3d787742d89d0
+"Xã Bình Hưng, Huyện Bình Chánh",1.35,Đất thổ cư,100.0,,,,,,Sổ hồng,368428a7fc0b8464fcef9fb678fc520e
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",2.35,"Nhà hẻm, ngõ",68.0,4.0,5.0,5.0,,,Sổ hồng,c71b3e259098a8883279a5257fad31ec
+"Xã Thái Mỹ, Huyện Củ Chi",3.0,"Đất nông nghiệp, kho bãi",2813.0,,,,,,Sổ hồng,9368e9d9c53c21e4677f6568cc913c41
+"Phường 13, Quận Tân Bình",7.5,"Nhà hẻm, ngõ",86.0,,,,,,Sổ hồng,a4ef9362c58c91d47ade0090dce9dd91
+"Phường Thạnh Xuân, Quận 12",1.79,"Nhà hẻm, ngõ",57.0,4.0,4.0,5.0,,,Sổ hồng,847a98d953950e149c0df25bb1900b8b
+"Phường 15, Quận Phú Nhuận",9.95,"Nhà hẻm, ngõ",60.0,4.0,5.0,4.0,Tây Bắc,Tây Bắc,Sổ hồng,2afc2204ba03cbefb7e3fc596e72966b
+"Phường An Lạc, Quận Bình Tân",5.57,Nhà mặt tiền,52.0,5.0,5.0,5.0,,,Sổ hồng,cfe632519ec6a075e18eb9a55177d084
+"Phường 17, Quận Gò Vấp",13.0,"Nhà hẻm, ngõ",144.0,,,,,,Sổ hồng,c4eac6eb7a8f486b61f578a247609750
+"Xã Thới Tam Thôn, Huyện Hóc Môn",10.3,Đất thổ cư,1167.0,,,,,,Sổ đỏ,cc34a62e0a10de1611771ee744575ee6
+"Phường Tân Quý, Quận Tân Phú",6.5,"Nhà hẻm, ngõ",93.0,4.0,4.0,3.0,,,Sổ hồng,e4688b953b4995e9d3a530441efa84ba
+"Phường Tây Thạnh, Quận Tân Phú",2.1,"Nhà hẻm, ngõ",55.0,,,,,,Sổ hồng,7cef4ea689f690fb9ced9c1c0e89dd5b
+"Phường 2, Quận Tân Bình",14.0,Nhà mặt tiền,43.0,5.0,3.0,3.0,Bắc,Bắc,Sổ hồng,0741ee9d7e36ea1546ffd06fa4ba5b02
+"Phường 7, Quận Gò Vấp",18.5,"Biệt thự, Villa",112.0,4.0,,3.0,,,Sổ hồng,69cc37af298fa13c6e2c1ee7a4ec4832
+"Phường Tân Kiểng, Quận 7",14.5,Nhà mặt tiền,80.0,,,,,,Sổ hồng,624ab90c42b76b37ec75d7c30949806c
+"Phường 6, Quận Bình Thạnh",6.2,Nhà mặt tiền,37.0,3.0,3.0,3.0,Đông Bắc,,Sổ hồng,e8bf2ba9a275056f84ca9c7a34e8540d
+"Phường An Phú, TP. Thủ Đức - Quận 2",9.55,"Đất dự án, Khu dân cư",80.0,,,,Đông Nam,,Sổ đỏ,67dfce3ac222ce3bf0492d005d3b1d00
+"Phường 16, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",53.3,4.0,3.0,,,,Sổ hồng,11df0fba86a69665fe71ccef26c9abf9
+"Phường Tây Thạnh, Quận Tân Phú",8.5,"Nhà hẻm, ngõ",68.6,5.0,4.0,5.0,,,Sổ hồng,03e4c46ccb7b2b482875bebf9b69077e
+"Phường 10, Quận Tân Bình",24.0,"Biệt thự, Villa",180.0,3.0,3.0,2.0,,,Sổ hồng,6303c261e7bf9bf2565f5a8b8e87be46
+"Xã Bình Chánh, Huyện Bình Chánh",0.89,"Nhà hẻm, ngõ",125.0,3.0,2.0,,,,Sổ hồng,9569db3d78ea750c6d004198e480b73a
+"Phường Hiệp Tân, Quận Tân Phú",18.0,"Nhà hẻm, ngõ",159.0,33.0,33.0,6.0,,,Sổ hồng,65fdb591a8475f1b91ea37f1ce828f7b
+"Phường 15, Quận 11",15.5,Nhà mặt tiền,60.0,5.0,4.0,2.0,Tây Bắc,Đông,Sổ hồng,81b75ff8e5ce5c9d94e61440fdaf4cbf
+"Phường Tân Hưng, Quận 7",10.0,Đất thổ cư,87.0,,,,,,Sổ hồng,28e7f4a7f762dc12aae91c5f97cef0d9
+"Phường Đông Hưng Thuận, Quận 12",4.65,Nhà mặt tiền,43.0,,,,,,Sổ hồng,14c03314e6de83e50caeddc85e9ec271
+"Phường 1, Quận Gò Vấp",14.5,Nhà mặt tiền,82.2,5.0,5.0,3.0,Tây Nam,Đông Bắc,Sổ hồng,7f0115aa363ee3c54a1235b6c52644f2
+"Phường 4, Quận Tân Bình",17.0,"Nhà hẻm, ngõ",68.0,5.0,7.0,5.0,,,Sổ hồng,dd72657bcd8504376e9ac4c1944c4542
+"Phường 7, Quận Phú Nhuận",1.85,"Nhà hẻm, ngõ",28.0,4.0,3.0,,,,Sổ hồng,983a1f8ca58e91229e55fcffe64fef9b
+"Phường Bến Thành, Quận 1",36.0,Nhà mặt tiền,67.0,,,2.0,,,Sổ hồng,e4c6952920d0d9739f85590e8009b292
+"Phường 4, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",35.0,4.0,3.0,,,,Sổ hồng,bf6cd9d382fe8089367d53a538f4bb02
+"Phường 10, Quận Tân Bình",3.88,"Nhà hẻm, ngõ",24.0,2.0,3.0,3.0,,,Sổ hồng,97e4bf8ca6becd4dd70a2e69bb6a3fd2
+"Phường Tân Định, Quận 1",4.5,"Nhà hẻm, ngõ",25.0,2.0,2.0,2.0,,,Sổ hồng,730e58d3877ec94eff838fb830506142
+"Phường Bình Trị Đông, Quận Bình Tân",6.3,"Nhà hẻm, ngõ",70.0,3.0,4.0,4.0,,,Sổ hồng,5d34dfbcd21689fe57316b042c25b084
+"Phường 14, Quận Tân Bình",3.99,"Nhà hẻm, ngõ",28.0,2.0,1.0,1.0,,,Sổ hồng,c0f2ce6123df3307aaf9c2496ee7bb9e
+"Phường 14, Quận 10",12.0,"Nhà hẻm, ngõ",64.0,,,3.0,,,Sổ hồng,7f972b2de30298017ed0cb934ecba7b6
+"Phường 10, Quận Tân Bình",2.75,"Nhà hẻm, ngõ",60.0,4.0,4.0,4.0,,,Sổ hồng,c5fb9a3d1b83180b5bc97306f9492dc0
+"Phường 8, Quận Phú Nhuận",12.5,"Nhà hẻm, ngõ",138.8,8.0,7.0,2.0,,,Sổ hồng,511f957230eb85c44397997bb58e057a
+"Phường 17, Quận Gò Vấp",4.66,"Nhà hẻm, ngõ",75.3,,,1.0,Đông Nam,Đông Nam,Sổ hồng,54f4259032c1048329d012307c2aaeb3
+"Phường 9, Quận 11",6.0,"Nhà hẻm, ngõ",120.0,,,,,,Sổ hồng,08e0421b3ac1d92fb0b5a65344f0d797
+"Phường An Phú, TP. Thủ Đức - Quận 2",72.0,Nhà mặt tiền,185.0,,,,Đông Nam,Đông Nam,Sổ hồng,03a5f189acffa1239055d2a111b66669
+"Phường Nguyễn Cư Trinh, Quận 1",10.5,"Nhà hẻm, ngõ",51.0,,,,,,Giấy tờ hợp lệ,c51815b966d384ed46b73628d153788f
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",17.745,Nhà mặt tiền,159.0,,,,,,Sổ hồng,a4a8ae28b1dc998c96b30f16f770f20f
+"Phường 9, Quận Tân Bình",6.1,"Nhà hẻm, ngõ",40.0,1.0,,1.0,,,Sổ hồng,0225ba03d91938c5f296d6e5b42e5117
+"Phường 5, Quận Gò Vấp",7.35,"Nhà hẻm, ngõ",60.0,,,2.0,,,Sổ hồng,d80494ef367b744c65d901961dbf4f52
+"Phường 13, Quận 10",4.9,Nhà mặt tiền,20.0,3.0,3.0,3.0,,,Sổ hồng,7656cbd9836b2b40bcc7ca97e6ac250e
+"Phường An Khánh, TP. Thủ Đức - Quận 2",25.0,Đất thổ cư,171.0,,,,,,Sổ hồng,95bc0f9b5e3642c20572b47d112b9e97
+"Phường 12, Quận Phú Nhuận",14.5,"Nhà hẻm, ngõ",55.0,4.0,5.0,6.0,,,Sổ hồng,a4dac0056e88a27f65d9827fe11d77de
+"Phường Tân Phong, Quận 7",9.5,Nhà mặt tiền,90.0,5.0,5.0,4.0,Đông,Đông,Sổ hồng,5f7cdcb84aff0ec86f18bc9709896f1e
+"Phường 7, Quận 10",7.5,"Nhà hẻm, ngõ",31.1,3.0,4.0,,,,Sổ hồng,87a9bb9a24d53f4e0cdfa1caa85f853b
+"Phường 6, Quận Bình Thạnh",7.0,"Nhà hẻm, ngõ",74.8,,,,Đông,Đông,Sổ hồng,c1ea0c825c5af9b351d103620b5ed3ca
+"Phường Long Phước, TP. Thủ Đức - Quận 9",2.98,Đất thổ cư,57.0,,,,,,Sổ hồng,90612c211b103c141cc77994708df868
+"Phường 12, Quận Tân Bình",37.0,"Nhà hẻm, ngõ",160.0,24.0,26.0,7.0,,,Sổ hồng,034bf917b35466c175b42db71e5ebfda
+"Phường 2, Quận Bình Thạnh",1.99,"Nhà hẻm, ngõ",39.0,2.0,2.0,2.0,,,Sổ hồng,b8400011e3622e50c5ca18c9ca014c24
+"Xã Bình Lợi, Huyện Bình Chánh",9.5,"Đất nông nghiệp, kho bãi",3554.3,,,,,,Sổ hồng,1fa3c45c1c99bb3ae1111d10b7197f88
+"Phường 2, Quận Tân Bình",14.2,Nhà mặt tiền,100.0,2.0,2.0,1.0,Tây,Tây,Sổ hồng,f52de1ae3e5383baa32a9014d8df4ac8
+"Phường 3, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",52.0,4.0,3.0,,,,Sổ hồng,9be287385d95b1b1358479a53a057255
+"Phường 7 (Phường Võ Thị Sáu), Quận 3",2.0,"Nhà hẻm, ngõ",40.2,4.0,4.0,,,,Sổ hồng,6f64c9a11de239a6fe8bab5b18aacdb0
+"Phường 14, Quận Tân Bình",29.8,Nhà mặt tiền,155.0,32.0,,6.0,,,Sổ hồng,cc7e5fd59b1eacbd44a7ed29a16fa97f
+"Phường 9, Quận 3",13.5,"Nhà hẻm, ngõ",74.0,5.0,6.0,4.0,,,Sổ hồng,3046474fe142c812eee30681c582ae2e
+"Phường 15, Quận Phú Nhuận",16.5,"Nhà hẻm, ngõ",76.0,14.0,15.0,7.0,,,Sổ đỏ,fda5b57bcfef4671ec11904d45ddd847
+"Phường Đông Hưng Thuận, Quận 12",3.5,"Nhà hẻm, ngõ",55.0,1.0,2.0,2.0,,,Sổ hồng,65d58028705e9acde37807be81596324
+"Phường Nguyễn Thái Bình, Quận 1",55.0,Nhà mặt tiền,80.0,6.0,4.0,,Đông Nam,,Sổ hồng,15cc4452cb3ebbc54ef0b53ee0e60055
+"Phường 9, Quận Phú Nhuận",2.15,"Nhà hẻm, ngõ",69.1,4.0,3.0,,,,Sổ hồng,08177a3c3dd948018b2e804b7a9279a4
+"Phường Sơn Kỳ, Quận Tân Phú",7.5,Nhà mặt tiền,64.0,4.0,5.0,2.0,Tây Nam,,Sổ hồng,a0ae59ed6cdd4911a4da1c52c7d04241
+"Phường Phú Thạnh, Quận Tân Phú",8.5,Nhà mặt tiền,68.0,2.0,2.0,2.0,Đông Bắc,Đông Bắc,Sổ hồng,74c351f95efba0a384b6260c2abb46b0
+"Phường 16, Quận 11",3.55,"Nhà hẻm, ngõ",25.2,,,,,,Sổ hồng,4ce5aa62ce3bd5aef8b9b97eb77c1022
+"Phường 26, Quận Bình Thạnh",19.0,"Nhà hẻm, ngõ",125.0,6.0,7.0,1.0,Nam,,Sổ hồng,b6eccb32436f29e0d0015453843be4d8
+"Phường 10, Quận 3",11.5,"Nhà hẻm, ngõ",72.0,3.0,4.0,,,,Sổ hồng,049b3c51b70fb0cfed3999f13eb7a8d6
+"Phường 12, Quận Gò Vấp",8.5,"Nhà hẻm, ngõ",66.0,4.0,5.0,3.0,,,Sổ hồng,de0bc37b6ee03acf0f09b5de2cc8d27e
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",2.35,"Nhà hẻm, ngõ",68.0,4.0,3.0,3.0,,,Sổ hồng,c52c71c67846af6a9512a2d77763b6cc
+"Xã Phước Kiển, Huyện Nhà Bè",9.2,"Đất dự án, Khu dân cư",176.2,,,,,,Sổ đỏ,40dbb44798bf21c49e0709d781ea2cf2
+"Phường 12, Quận Tân Bình",11.5,"Nhà hẻm, ngõ",75.0,3.0,,2.0,,,Sổ hồng,2019916f2ebc45083e5f930c1a6fcead
+"Phường 4, Quận Tân Bình",18.9,Nhà mặt tiền,70.0,5.0,5.0,,Đông Bắc,Đông Bắc,Sổ hồng,372ec30609db8d11ee48bee0f9bbef05
+"Phường Tân Sơn Nhì, Quận Tân Phú",8.5,"Nhà hẻm, ngõ",60.0,3.0,2.0,2.0,,,Sổ hồng,2018dd5d0909c5118a51fb740d216f69
+"Phường Tân Quý, Quận Tân Phú",6.0,"Nhà hẻm, ngõ",80.0,4.0,3.0,,,,Sổ hồng,21ca73c82050370a47ff1a265610e868
+"Phường 15, Quận Gò Vấp",6.95,"Nhà hẻm, ngõ",100.0,,,3.0,,,Sổ hồng,58b961c403356f1c3d0b89743d791b12
+"Phường 13, Quận Tân Bình",2.3,"Nhà hẻm, ngõ",45.7,3.0,3.0,3.0,,,Sổ hồng,fef2c69dd35bdfe68b281c12695dd835
+"Phường 13, Quận Tân Bình",40.0,Nhà mặt tiền,211.0,20.0,20.0,4.0,,,Sổ hồng,21dd10101ab621e49b812c86294a4da1
+"Xã Phước Hiệp, Huyện Củ Chi",1.69,Nhà mặt tiền,251.0,2.0,1.0,1.0,Đông,Đông,Sổ hồng,8a761e088c65db431684e6a42d7970b8
+"Phường 12, Quận Tân Bình",8.5,"Nhà hẻm, ngõ",48.0,3.0,4.0,4.0,,,Sổ hồng,485bf2e6ad6f24a803dadcb0d419b2f7
+"Phường 4, Quận 4",12.5,Nhà mặt tiền,45.6,4.0,6.0,4.0,Đông Bắc,,Sổ hồng,6abf6a2284a4c98a3ad48fb107d46bf1
+"Phường Trường Thạnh, TP. Thủ Đức - Quận 9",4.6,Đất thổ cư,92.0,,,,,,Sổ hồng,bb0f657c49dc1c2e4008020e068392ef
+"Phường 13, Quận Tân Bình",8.9,Nhà mặt tiền,57.0,4.0,3.0,3.0,,,Sổ hồng,644ab9c614566e4e172e7bd0e8b46be8
+"Phường 14, Quận Gò Vấp",7.35,"Nhà hẻm, ngõ",60.0,4.0,5.0,3.0,Đông Nam,Đông Nam,Sổ hồng,cdbfc0288c49379951e386e9b3a6012b
+"Xã Nhơn Đức, Huyện Nhà Bè",1.36,"Nhà hẻm, ngõ",25.0,3.0,2.0,3.0,,,Sổ hồng,31ef4113e0e1cb407380eeb4c066bede
+"Phường Thạnh Mỹ Lợi, TP. Thủ Đức - Quận 2",0.145,"Đất dự án, Khu dân cư",160.0,,,,,,Hợp đồng mua bán,890ee43b4a39302ec9a5a8b630d822e2
+"Xã Lê Minh Xuân, Huyện Bình Chánh",19.0,Nhà mặt tiền,600.0,4.0,4.0,,Tây,Bắc,Sổ hồng,f71a06e3446566484772bcf10ccb8742
+"Phường 12, Quận Tân Bình",8.9,Nhà mặt tiền,57.0,4.0,3.0,3.0,,,Sổ hồng,7c73b383c8f13f049eb46d789634395b
+"Phường Tây Thạnh, Quận Tân Phú",1.45,"Nhà hẻm, ngõ",25.0,2.0,2.0,2.0,Đông,Đông,Sổ hồng,5ceebec053b3d45b71d23c6730d61846
+"Phường 14, Quận 11",14.6,"Nhà hẻm, ngõ",95.4,,,3.0,,,Sổ hồng,ce91987d2c77b278121d742140d214d9
+"Phường 15, Quận Tân Bình",6.99,"Nhà hẻm, ngõ",81.6,2.0,3.0,,,,Sổ hồng,d90187231381859dd2911a52cef1790c
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",3.45,"Nhà hẻm, ngõ",68.0,4.0,3.0,4.0,,,Sổ hồng,60a19a5d5b875ac9839340633a2fca46
+"Phường 5, Quận Tân Bình",2.85,"Nhà hẻm, ngõ",48.0,4.0,3.0,,,,Sổ hồng,41c75a6bc25291fde96952c65259a3b6
+"Phường Hiệp Thành, Quận 12",5.3,Nhà mặt tiền,100.0,2.0,2.0,1.0,Tây Bắc,Tây Bắc,Sổ hồng,4553beb643576bf09ec5a550913a78ea
+"Phường Tân Thới Hòa, Quận Tân Phú",7.25,"Nhà hẻm, ngõ",80.7,10.0,10.0,3.0,Tây Nam,Tây Nam,Sổ hồng,4c2405275bb9c2ef2251d77eb025c5c3
+"Phường 8, Quận Tân Bình",7.1,Nhà mặt tiền,45.0,7.0,4.0,,,,Sổ hồng,86fd9a9a3f9d10d209c6c1ed1cd3772b
+"Phường Bình Hưng Hòa, Quận Bình Tân",3.0,"Nhà hẻm, ngõ",42.0,3.0,3.0,,Bắc,Bắc,Sổ hồng,b180451ac95b5f54bdd3168924fd9aeb
+"Phường Tân Sơn Nhì, Quận Tân Phú",5.5,"Nhà hẻm, ngõ",40.0,2.0,2.0,2.0,,,Sổ hồng,4dce1f9a5e24a31941075d823ad82dab
+"Phường 2, Quận Tân Bình",11.9,Nhà mặt tiền,50.0,4.0,4.0,,,,Sổ hồng,f62694b25f6d9e5021c0ffc6106be9fa
+"Xã Tân An Hội, Huyện Củ Chi",1.5,Đất thổ cư,117.5,,,,,,Giấy tờ hợp lệ,08e2224b5b1083cfcee4d5c8d37421c9
+"Phường 3, Quận 8",2.38,"Nhà hẻm, ngõ",37.0,3.0,2.0,3.0,,,Sổ hồng,c0740f2c7b245196f27623e4bd4c36ad
+"Xã Tân Hiệp, Huyện Hóc Môn",8.9,Đất thổ cư,575.0,,,,,,Sổ hồng,84d993e0899681ba312a20e54d034d50
+"Phường 3, Quận 3",3.65,"Nhà hẻm, ngõ",76.0,3.0,2.0,,,,Sổ hồng,4e3e0b40848dca52d0abe85d3c8c043e
+"Phường 13, Quận 3",43.5,"Nhà hẻm, ngõ",202.0,6.0,6.0,3.0,,,Sổ hồng,830921935a8695386e324ca082de0ea4
+"Phường 6, Quận Bình Thạnh",4.25,"Nhà hẻm, ngõ",25.5,2.0,2.0,2.0,,,Sổ hồng,a8cfe4c1a3ec95f600068e81677d716d
+"Phường An Phú, TP. Thủ Đức - Quận 2",17.5,Nhà mặt tiền,80.0,5.0,5.0,,Tây,,Sổ hồng,9182e85a8de1fb058dfec706d4f9e227
+"Phường Hiệp Tân, Quận Tân Phú",28.0,Nhà mặt tiền,150.0,3.0,4.0,,Đông Nam,Đông Nam,Sổ hồng,225a17bac7bcc199c444ced9e83af61d
+"Phường 21, Quận Bình Thạnh",17.0,"Nhà hẻm, ngõ",96.9,12.0,12.0,,Tây Nam,Tây Nam,Sổ đỏ,3b793273eea942d0522cd436f7b1485f
+"Phường 4, Quận 3",38.0,Nhà mặt tiền,72.0,6.0,6.0,5.0,,,Sổ hồng,d0f39c4fa966ca1433ea986892cb214f
+"Phường Tân Kiểng, Quận 7",29.5,Nhà mặt tiền,108.0,20.0,,,,,Sổ hồng,54bd7f71ead69116a9aaaa51c5870443
+"Phường Tân Định, Quận 1",8.5,"Nhà hẻm, ngõ",54.0,4.0,,,,,Sổ hồng,5994fad85d4f2f2f7c9dc61e6742d773
+"Phường 3, Quận 11",1.57,"Nhà hẻm, ngõ",12.0,,,,,,Giấy tờ khác,0873ef7bb7067f57e92810d0c748eba4
+"Phường 17, Quận Gò Vấp",6.0,Đất thổ cư,70.0,,,,,,Sổ hồng,813c276b60e421a3ad359bc5465284e4
+"Phường 4, Quận 11",7.1,"Nhà hẻm, ngõ",80.0,5.0,4.0,3.0,,,Sổ hồng,dc7a6adfcf0924c3cf9a06f68701541c
+"Phường 12, Quận Gò Vấp",3.95,"Nhà hẻm, ngõ",44.0,,,,,,Sổ hồng,91b273233e3f7cccce6534fb0e192684
+"Phường 14, Quận 10",22.5,Nhà mặt tiền,80.0,,,2.0,,,Sổ hồng,26d4716e77add18311853b6877bece69
+"Phường 4, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",48.0,4.0,5.0,,,,Sổ hồng,888524027fec955c612dc0f5ffa88244
+"Phường 8, Quận Gò Vấp",6.95,"Nhà hẻm, ngõ",60.0,4.0,3.0,2.0,Đông Bắc,Đông Bắc,Sổ hồng,4503f4fe3d45ccbf6503b936e6d4ec1f
+"Phường 4, Quận 3",43.0,Nhà mặt tiền,152.0,3.0,3.0,3.0,,,Sổ hồng,63952e91ac718132575cf51a34d94673
+"Phường Bến Thành, Quận 1",35.5,Nhà mặt tiền,6.0,,,4.0,,,Sổ hồng,f7f85901edad868e18f9b2e1d9517d3b
+"Phường Phú Trung, Quận Tân Phú",5.5,"Nhà hẻm, ngõ",65.8,3.0,2.0,1.0,,,Sổ hồng,fc1132881dc87ba00f3481f0db2fba44
+"Xã Phong Phú, Huyện Bình Chánh",18.0,Đất thổ cư,2300.0,,,,,,Sổ hồng,41599ac45eec30a52e53863ef6831fdf
+"Phường Linh Đông, TP. Thủ Đức - Quận Thủ Đức",10.8,Nhà mặt tiền,81.0,,,,,,Sổ hồng,cf975c74eb6aaf0535f40ce372c04905
+"Phường 10, Quận Gò Vấp",4.35,"Nhà hẻm, ngõ",36.0,3.0,2.0,2.0,Đông Nam,Đông Nam,Sổ hồng,e9b8fcc0c41ea5895612adf03267fc29
+"Phường Tân Thành, Quận Tân Phú",13.9,Nhà mặt tiền,100.0,2.0,1.0,1.0,,,Sổ hồng,8a3c977c325569cd6811e8de01298777
+"Phường 25, Quận Bình Thạnh",5.5,"Nhà hẻm, ngõ",40.0,2.0,4.0,4.0,,,Sổ hồng,81244cf6f94c05a0ad259ea4bd586bb3
+"Phường 14, Quận 10",8.0,Nhà mặt tiền,56.0,,,,,,Sổ hồng,18b2230d7207d077654327c4a733c271
+"Phường 15, Quận Tân Bình",2.85,"Nhà hẻm, ngõ",45.5,,,,,,Giấy tờ hợp lệ,4c0da576883976a5f35947593f20e26e
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",3.65,"Nhà hẻm, ngõ",60.9,4.0,5.0,3.0,,,Sổ hồng,377824e9a15ca5d5c75f5b3c50f0c4fc
+"Phường An Phú, TP. Thủ Đức - Quận 2",43.0,Nhà mặt tiền,200.0,,,4.0,Tây Nam,,Sổ hồng,d1e8af33b45b92f302850196f542f7d0
+"Phường 13, Quận Bình Thạnh",18.0,"Nhà hẻm, ngõ",170.0,2.0,2.0,2.0,,,Sổ hồng,0b2973828a818d543d51fa2983971e85
+"Phường 7, Quận Gò Vấp",14.5,"Nhà hẻm, ngõ",96.0,,,,,,Sổ hồng,0335787c48d6e8ac66f0287c2c71359b
+"Phường Bến Thành, Quận 1",200.0,Nhà mặt tiền,176.0,,,5.0,,,Sổ hồng,95d86fb328cd35a00b68d1502174ab8c
+"Phường 15, Quận 10",4.65,"Nhà hẻm, ngõ",30.0,5.0,4.0,2.0,,,Sổ hồng,f8a79a2337a0287276224c3b84003848
+"Phường Phú Thuận, Quận 7",1.49,"Nhà hẻm, ngõ",58.0,2.0,2.0,1.0,,,Sổ hồng,3a95da6c7744cb3478521f549cb843eb
+"Xã Bà Điểm, Huyện Hóc Môn",7.5,Nhà mặt tiền,125.0,5.0,5.0,3.0,,,Sổ hồng,ca01358fb352cf7c62de5a41d742d7c9
+"Phường Phú Trung, Quận Tân Phú",5.5,"Nhà hẻm, ngõ",60.3,4.0,3.0,2.0,Đông Nam,Đông Nam,Sổ hồng,0cfa46aa961eedb93d6ea5a89a8e89d3
+"Phường 10, Quận Gò Vấp",5.8,"Nhà hẻm, ngõ",36.0,4.0,4.0,3.0,,,Sổ hồng,0a2879075073004669ecb7c9261c175c
+"Phường Hiệp Thành, Quận 12",4.2,"Nhà hẻm, ngõ",91.0,3.0,2.0,1.0,,,Sổ hồng,d476bb80f8defbe825c0b0e5c85d2c40
+"Phường Tân Quý, Quận Tân Phú",8.0,"Nhà hẻm, ngõ",64.0,4.0,5.0,4.0,Tây,,Sổ hồng,f64a9b499d497f96d2e33e9406df526c
+"Phường Tân Thới Hiệp, Quận 12",0.65,"Nhà hẻm, ngõ",100.0,,,,,,Sổ hồng,bd68396a35c7a719a88a50f721361b20
+"Phường Phú Trung, Quận Tân Phú",5.0,"Nhà hẻm, ngõ",57.0,2.0,2.0,,,,Sổ hồng,b86a0cb58e253bc317cae6adf370a1be
+"Xã Phú Xuân, Huyện Nhà Bè",9.2,"Nhà hẻm, ngõ",157.0,4.0,4.0,2.0,,,Sổ hồng,68cbb76cf4d907ee43c052f4a5ebfc05
+"Phường 13, Quận Tân Bình",9.6,"Nhà hẻm, ngõ",50.0,5.0,4.0,4.0,,,Sổ hồng,4cdd038ffdedb978a7b824afea8f3a2b
+"Phường 11, Quận Phú Nhuận",13.5,"Nhà hẻm, ngõ",90.0,4.0,5.0,4.0,Tây Bắc,Tây Bắc,Sổ hồng,21b600fa2d65495e462799df7f2ebc2c
+"Phường 12, Quận Tân Bình",25.0,"Nhà hẻm, ngõ",162.0,,,,,,Sổ hồng,46b6d84f64f29ff8a7922afdaa1d206d
+"Phường Bình Trưng Tây, TP. Thủ Đức - Quận 2",0.125,"Đất dự án, Khu dân cư",161.0,,,,Đông Bắc,,Sổ đỏ,4e8344b0b7709cb7cf69aaed6f536be5
+"Phường Tân Thành, Quận Tân Phú",6.5,Nhà mặt tiền,40.0,,,,,,Sổ hồng,5ccdf2018df300fca96bf20a59ddfb6d
+"Phường Tây Thạnh, Quận Tân Phú",1.84,"Nhà hẻm, ngõ",25.0,2.0,2.0,,,,Sổ hồng,4551bdff9ece8ae90084bf2391f472b3
+"Phường Bình Hưng Hòa A, Quận Bình Tân",3.0,"Nhà hẻm, ngõ",70.0,2.0,1.0,,,,Sổ hồng,f7e8890260986593f35847d6af21c452
+"Phường 6, Quận 4",5.5,"Nhà hẻm, ngõ",92.0,,2.0,,,,Sổ hồng,f5435ab5ae4562a46251bf2902c09078
+"TP. Thủ Đức - Quận 2, TP.HCM",0.27,"Đất dự án, Khu dân cư",320.0,,,,Đông Nam,,Sổ hồng,1486f2a3cfa283239668730062199e07
+"Phường 6, Quận 5",11.0,"Nhà hẻm, ngõ",76.0,,,1.0,,,Sổ hồng,7867d7b19faff41a78be80c59cf6a87e
+"Phường Thới An, Quận 12",1.79,"Nhà hẻm, ngõ",46.5,4.0,3.0,,,,Sổ hồng,3ea938782046d6c4f4c674ac9903e98d
+"Phường An Khánh, TP. Thủ Đức - Quận 2",22.0,Nhà mặt tiền,80.0,,,,,,Giấy tờ hợp lệ,6157bd171873a49557b03877b7583c28
+"Phường Phú Thọ Hòa, Quận Tân Phú",1.55,"Nhà hẻm, ngõ",44.0,3.0,3.0,3.0,,,Sổ hồng,c6a0b41f05d37a5c699f3f9be2fde40c
+"Phường 14, Quận Tân Bình",6.99,"Nhà hẻm, ngõ",39.0,4.0,3.0,4.0,,,Sổ hồng,07d9b14ff4a64702694d7484744fae7a
+"Phường Hòa Thạnh, Quận Tân Phú",0.79,"Nhà hẻm, ngõ",15.8,,,2.0,Đông,,Giấy tờ khác,e3facd71968656c46bd348881754bd42
+"Phường 4, Quận Tân Bình",11.8,"Nhà hẻm, ngõ",72.0,2.0,2.0,2.0,,,Sổ hồng,75368a925563e8671728ac456feafe18
+"Phường 12, Quận Tân Bình",38.0,Nhà mặt tiền,170.0,22.0,22.0,7.0,,,Sổ hồng,20eb4025f45aac4da5d85222d96783c4
+"Phường An Lạc A, Quận Bình Tân",5.5,"Nhà hẻm, ngõ",32.0,,,,,,Giấy tờ hợp lệ,b057b66a589e742d4589716ad467e7cd
+"Phường Tân Hưng, Quận 7",55.0,"Biệt thự, Villa",200.0,5.0,5.0,,Tây Nam,,Sổ hồng,5886b23d7245c02acc383bd696a96462
+"Xã Tân An Hội, Huyện Củ Chi",0.6,Nhà mặt tiền,135.0,2.0,,,,,Sổ hồng,3b55119804712961b9ee650ae3f41bd0
+"Xã Tân Thông Hội, Huyện Củ Chi",0.7,Nhà mặt tiền,224.0,,,,,,Sổ hồng,843466b7d2f3959731d1e262536cdf62
+"Phường 17, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",46.0,4.0,4.0,,,,Sổ hồng,16338b1e898bf609d0dd94cae2e1cf6c
+"Phường Phú Trung, Quận Tân Phú",9.6,Đất thổ cư,94.0,,,,,,Sổ hồng,e16316206c9fec29f1418185452bbdec
+"Phường 2, Quận Tân Bình",3.99,"Nhà hẻm, ngõ",54.0,4.0,4.0,3.0,,,Sổ hồng,de4c910443917c89a41b5cb7467f6d98
+"Phường 17, Quận Gò Vấp",11.0,Nhà mặt tiền,135.0,21.0,23.0,5.0,,,Sổ hồng,879d78d2100148b1f3435cf1afc60620
+"Phường 3, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",52.0,4.0,4.0,,,,Sổ hồng,1a63f7de5c61798f2f84332e3ee96ef5
+"Phường 3, Quận 3",3.05,"Nhà hẻm, ngõ",60.0,6.0,6.0,,,,Sổ hồng,63c9e812c851714fbd8eea258a43dc0c
+"Phường Tân Sơn Nhì, Quận Tân Phú",3.39,"Nhà hẻm, ngõ",72.0,4.0,4.0,2.0,,,Sổ hồng,c93dcd8465424ad4dee1bbf57dcf9477
+"Xã Tân Hiệp, Huyện Hóc Môn",0.7,"Nhà hẻm, ngõ",110.0,2.0,,,,,Sổ hồng,b867c174de99a1052542e7ba595f0f92
+"Phường 4, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",48.0,4.0,4.0,,,,Sổ hồng,ce62eeac16d2208fb25d23b5c2e763d0
+"Phường 1, Quận 5",12.3,Nhà mặt tiền,36.0,4.0,3.0,,,,Sổ hồng,bd6bf7103f4d579df40b2fbc3db90b7a
+"Phường An Phú, TP. Thủ Đức - Quận 2",24.0,Nhà mặt tiền,100.0,7.0,5.0,3.0,Đông Bắc,Đông Bắc,Sổ hồng,e641341ef9124ccd31edea6d395d1976
+"Phường Bình Trị Đông A, Quận Bình Tân",3.18,"Nhà hẻm, ngõ",26.6,1.0,1.0,2.0,,,Sổ hồng,3e531be25795a4b8f2d99a204e4dd830
+"Xã Vĩnh Lộc A, Huyện Bình Chánh",1.39,"Nhà hẻm, ngõ",84.0,1.0,1.0,1.0,Tây,,Giấy tờ hợp lệ,6038b9a116b20cecb28be1f266411498
+"Phường Long Bình, TP. Thủ Đức - Quận 9",6.05,"Nhà hẻm, ngõ",300.0,2.0,2.0,,Đông Nam,Đông Nam,Sổ hồng,ef3043cb8dd01f574d5886c081193eac
+"Phường 7, Quận Phú Nhuận",3.8,"Nhà hẻm, ngõ",44.0,2.0,2.0,,,,Sổ hồng,921869547f06d178c7ae8b7c08bbe016
+"Phường 24, Quận Bình Thạnh",8.9,"Nhà hẻm, ngõ",55.0,,,,,,Sổ hồng,b97ae1e245f6001bc83b444e5c709d0e
+"Phường 7, Quận Phú Nhuận",6.3,"Nhà hẻm, ngõ",30.0,3.0,4.0,,,,Sổ đỏ,082f87c54c65b88d88c7d3ab6d3b5ba4
+"Phường 2, Quận 5",12.0,Nhà mặt tiền,40.0,6.0,4.0,5.0,Đông,,Sổ hồng,5b48d54d9035ea05ddf54896c8cf427a
+"Phường Tân Kiểng, Quận 7",14.9,Nhà mặt tiền,68.0,5.0,6.0,4.0,,,Sổ hồng,0525248e2917b29f36eb0800e27d9e36
+"Phường Linh Đông, TP. Thủ Đức - Quận Thủ Đức",4.9,Đất thổ cư,100.0,,,,,,Sổ hồng,cc611c3b5f879d8f80eef58959d205dd
+"Phường Sơn Kỳ, Quận Tân Phú",1.55,"Nhà hẻm, ngõ",38.9,2.0,2.0,1.0,,,Sổ hồng,7e4166862145a446b895a7d0517a8934
+"Phường 4, Quận Tân Bình",1.55,"Nhà hẻm, ngõ",35.0,3.0,3.0,3.0,,,Sổ hồng,cfd4d68627065933d410028bbb698c9b
+"Phường 11, Quận Bình Thạnh",1.99,"Nhà hẻm, ngõ",18.0,,,,,,Sổ đỏ,3f8826b554130b539da8b80104510834
+"Phường An Lạc A, Quận Bình Tân",9.58,"Nhà hẻm, ngõ",128.0,6.0,6.0,5.0,,,Sổ hồng,51beeb9cce7d257a58ada85f7f1c40ce
+"Phường Bình Hưng Hòa B, Quận Bình Tân",2.63,"Nhà hẻm, ngõ",40.0,,,,,,Sổ hồng,d5a14e04c5c91b1e8ed26a77dc06ae78
+"Phường 14, Quận Tân Bình",2.3,"Nhà hẻm, ngõ",27.0,,,1.0,,,Sổ hồng,5df68aba3e50216d076f41db87bacf4c
+"Phường 2, Quận Tân Bình",5.8,"Nhà hẻm, ngõ",60.0,5.0,5.0,4.0,,,Sổ hồng,de8b8a5e91fe20538db448fab0df5935
+"Phường Tân Quy, Quận 7",17.0,Nhà mặt tiền,110.0,,,1.0,,,Sổ hồng,7d29b99be368d1330f52569878c699e5
+"Phường Linh Trung, TP. Thủ Đức - Quận Thủ Đức",22.0,Nhà mặt tiền,344.0,13.0,13.0,,Đông,,Sổ hồng,8545faa866b555874fdcadee25150f4f
+"Phường Thạnh Xuân, Quận 12",8.0,Đất thổ cư,287.0,,,,,,Sổ hồng,d0bb6f684926c5095ca76fbb9fe00932
+"Phường Tam Bình, TP. Thủ Đức - Quận Thủ Đức",2.7,Nhà mặt tiền,86.6,1.0,1.0,,,,Sổ hồng,11e45a7feaad1fe1c28f878c84961764
+"Xã Tân An Hội, Huyện Củ Chi",0.5,Đất thổ cư,180.0,,,,,,Sổ hồng,99e8d7679468919600f53d66145584bf
+"Phường 8, Quận Phú Nhuận",10.8,"Nhà hẻm, ngõ",45.0,4.0,5.0,6.0,,,Sổ hồng,060067282e96012a45085de9058bdce7
+"Phường 8, Quận Phú Nhuận",16.5,"Nhà hẻm, ngõ",99.5,,,,Tây Nam,,Sổ hồng,acb8561ea4e170bd07e91d87c861f479
+"Phường 10, Quận Gò Vấp",2.9,"Nhà hẻm, ngõ",48.6,4.0,4.0,2.0,,,Sổ hồng,7cbd132b86ece18958b2a1a106088bc5
+"Phường 16, Quận Gò Vấp",5.7,"Nhà hẻm, ngõ",59.0,3.0,3.0,3.0,Đông,,Sổ hồng,ba688d89d4ae310890fb45c56bda864b
+"Phường Tân Sơn Nhì, Quận Tân Phú",1.55,"Nhà hẻm, ngõ",52.0,3.0,2.0,,,,Sổ hồng,661a229d85ed735eef29f8ae1f3c77f0
+"Phường Bình Trị Đông A, Quận Bình Tân",4.18,"Nhà hẻm, ngõ",50.0,3.0,3.0,,,,Sổ hồng,9024c12f4efa7c28d51e7bfe189308d4
+"Xã Bình Chánh, Huyện Bình Chánh",0.8,Nhà mặt tiền,90.0,3.0,2.0,,,,Sổ hồng,14b1fdcfe337bacfe5f97ebaadc52c6a
+"Phường Phú Thuận, Quận 7",6.7,Nhà mặt tiền,56.0,2.0,2.0,2.0,Bắc,,Sổ hồng,c7a9d9beb5ae45d1c3238cfbcdd8e074
+"Phường 1, Quận 11",6.2,"Nhà hẻm, ngõ",61.3,,,,,,Sổ đỏ,9cb00aff09b261f29e22fd4e6be61926
+"Phường 12, Quận 10",18.5,Nhà mặt tiền,72.0,5.0,4.0,4.0,Đông Bắc,Đông Bắc,Sổ hồng,b762dd01c54b7cc7b80a7bdc5b34e0b5
+"Phường 1, Quận 10",34.0,Nhà mặt tiền,98.0,21.0,21.0,6.0,,,Sổ hồng,2d5313734cd9309b76d16acc13b0c654
+"Phường Sơn Kỳ, Quận Tân Phú",39.0,Nhà mặt tiền,640.0,2.0,2.0,2.0,,,Sổ hồng,c0a6795b9fc7da77fbd07ddd177de4ec
+"Xã Bình Chánh, Huyện Bình Chánh",0.8,Nhà mặt tiền,90.0,2.0,2.0,1.0,,,Sổ hồng,794bc5e5170313dfe2078288df4dc020
+"Phường Bình Hưng Hòa B, Quận Bình Tân",2.5,"Nhà hẻm, ngõ",40.0,4.0,3.0,3.0,,,Sổ hồng,6cff95598fd1b40c093d90f4953fdd7b
+"Phường 15, Quận Phú Nhuận",2.4,"Nhà hẻm, ngõ",42.0,2.0,2.0,,,,Sổ hồng,4d0b91db75ef3dd873b03989f1e382ae
+"Phường 9, Quận Phú Nhuận",1.9,"Nhà hẻm, ngõ",48.0,3.0,3.0,,,,Sổ hồng,95e1e0aa9159238631471b43b737360e
+"Phường Bình Trưng Tây, TP. Thủ Đức - Quận 2",5.5,Đất thổ cư,92.0,,,,,,Sổ hồng,16b0081072ad00bd9aed0f8048816d2f
+"Xã Tân Thạnh Đông, Huyện Củ Chi",3.0,"Đất nông nghiệp, kho bãi",906.5,,,,,,Sổ hồng,f70d1af07554b6768b07585e7185a425
+"Phường 21, Quận Bình Thạnh",1.99,"Nhà hẻm, ngõ",15.0,,,,,,Sổ hồng,42cc394c0f2fd58acfcfbd86a1f239d4
+"Phường 2, Quận Tân Bình",9.5,"Nhà hẻm, ngõ",48.7,,,,,,Sổ hồng,d239cc467f6cf2d4c48243573cf78999
+"Phường Tân Thuận Tây, Quận 7",9.0,"Nhà hẻm, ngõ",62.0,8.0,8.0,5.0,,,Sổ hồng,1dbc635cd0b9e940e7fdab0a852857cc
+"Phường Cầu Kho, Quận 1",3.5,"Nhà hẻm, ngõ",12.0,2.0,3.0,2.0,,,Sổ hồng,786315e3f3ba88ca079292a9d3263c2f
+"Phường 12, Quận Tân Bình",6.1,"Nhà hẻm, ngõ",52.0,4.0,4.0,4.0,,,Sổ đỏ,bb45bf975100429b8ba2a96300122dcd
+"Phường Phú Thuận, Quận 7",9.5,Nhà mặt tiền,80.0,,,,Nam,,Sổ hồng,4ff891de299c3f6b8d5b64bd281554c1
+"Phường Tân Định, Quận 1",26.0,Nhà mặt tiền,124.0,,,2.0,,,Sổ hồng,c62109a2296a368b46b9c450db50cf53
+"Phường 26, Quận Bình Thạnh",8.9,"Nhà hẻm, ngõ",65.0,6.0,6.0,5.0,,,Sổ hồng,4f3d1e5fad77d66e880404ea5b787bd1
+"Phường 13, Quận Bình Thạnh",2.75,"Nhà hẻm, ngõ",67.0,4.0,3.0,,,,Sổ hồng,0e2b813f20ed731e00ec951cc5f30139
+"Phường 24, Quận Bình Thạnh",9.9,"Nhà hẻm, ngõ",140.0,5.0,6.0,3.0,,,Sổ hồng,34859cdecfb8ca7069f6fc17fa9e8504
+"Phường 13, Quận Phú Nhuận",6.6,"Nhà hẻm, ngõ",36.0,2.0,3.0,4.0,,,Sổ hồng,77c679ae1ba975a5995e01ec759a44da
+"Phường 12, Quận Bình Thạnh",9.5,"Nhà hẻm, ngõ",75.0,5.0,5.0,3.0,,,Sổ hồng,89b0cd400c53c5cea5a302a9a15e34e3
+"Phường Tân Chánh Hiệp, Quận 12",2.63,"Nhà hẻm, ngõ",39.0,4.0,4.0,3.0,Tây,Tây,Sổ hồng,f3cac314f2f839aa12dbc8c19d1a482d
+"Xã Phú Hòa Đông, Huyện Củ Chi",0.84,Đất thổ cư,222.0,,,,,,Sổ hồng,0e1ff60808b5651961402f74a86157ca
+"Phường Bình Hưng Hòa, Quận Bình Tân",1.98,"Nhà hẻm, ngõ",32.0,2.0,2.0,,,,Sổ hồng,8c52322800a6f2b0431c476a9589ca9f
+"Xã Tân An Hội, Huyện Củ Chi",0.6,Nhà mặt tiền,130.0,6.0,6.0,,,,Sổ hồng,22bab47fd70561ce9b73dfb1228c9592
+"Phường 12, Quận Gò Vấp",7.35,"Nhà hẻm, ngõ",42.0,3.0,3.0,,Đông Nam,,Sổ hồng,1f5bd43f8211c0899df96b0dbe442751
+"Phường Thạnh Mỹ Lợi, TP. Thủ Đức - Quận 2",0.125,"Đất dự án, Khu dân cư",160.0,,,,,,Sổ đỏ,ce6f11a8594dc0d9dd1d75a2bf43a024
+"Phường 13, Quận Tân Bình",1.55,"Nhà hẻm, ngõ",45.0,3.0,3.0,2.0,,,Sổ hồng,33bd430f47f348e02e8a78e8f3739ec5
+"Phường 10, Quận Tân Bình",40.0,Nhà mặt tiền,92.0,,,5.0,,,Sổ hồng,4a6e0a29eb14b1273203e2029f40db20
+"Phường 12, Quận 5",16.5,Nhà mặt tiền,64.0,,,,,,Sổ hồng,4c9c8ce6a2614fe7ffdf0b9a09e99a26
+"Phường 16, Quận Gò Vấp",3.95,"Nhà hẻm, ngõ",24.0,2.0,2.0,2.0,Tây,Tây,Sổ hồng,e0d0243153009a5dddaff1105320b8c9
+"Phường 3, Quận Gò Vấp",4.66,"Nhà hẻm, ngõ",54.0,,,,,,Sổ hồng,ac29e6814eee8d737eb378bbc0ae9015
+"Phường 11, Quận 6",30.0,Nhà mặt tiền,232.3,4.0,3.0,,Đông Nam,,Sổ hồng,0276fe12eaefa1077b1c82f76bfd3441
+"Phường 6, Quận Bình Thạnh",7.0,"Nhà hẻm, ngõ",50.0,4.0,4.0,3.0,,,Sổ hồng,90526b2660d68c643d803ea225352cd7
+"Phường Hiệp Thành, Quận 12",4.4,"Nhà hẻm, ngõ",104.0,7.0,7.0,,,,Sổ hồng,9e3390748f2694f7919ced046f2acb81
+"Phường 13, Quận 6",6.3,Nhà mặt tiền,45.0,,,,,,Giấy tờ hợp lệ,e556a20f02b90d38d80cfc630b8ec3c3
+"Quận Bình Tân, TP.HCM",3.78,"Đất dự án, Khu dân cư",57.4,,,,,,Sổ hồng,afa298ded3498b0b50e8f22ae50d519b
+"TP. Thủ Đức - Quận 9, TP.HCM",6.2,"Đất dự án, Khu dân cư",100.0,,,,Tây Bắc,,Sổ đỏ,8e2c71bef35f95a42c6a6f744373598a
+"Phường Tây Thạnh, Quận Tân Phú",1.55,"Nhà hẻm, ngõ",32.0,2.0,2.0,1.0,,,Sổ hồng,e2266d728f7b56df6ef554bee774d45a
+"Phường 13, Quận Tân Bình",9.6,"Nhà hẻm, ngõ",52.0,5.0,4.0,,,,Sổ hồng,2850d15650164c39ef7027d7f2e6a376
+"Phường Bình Trị Đông, Quận Bình Tân",1.98,"Nhà hẻm, ngõ",64.0,2.0,2.0,,Tây,Tây,Sổ hồng,ef07f38d61523883abd370faccac62f7
+"Phường 7, Quận Gò Vấp",9.0,"Nhà hẻm, ngõ",83.5,6.0,6.0,2.0,,,Sổ hồng,b2129b4b7b1b57daf2f530af2d905961
+"Xã Phú Xuân, Huyện Nhà Bè",3.75,"Nhà hẻm, ngõ",84.0,,,,,,Sổ hồng,44c7b8be078137d1f520596dcf4b70fb
+"Phường An Phú, TP. Thủ Đức - Quận 2",23.5,Nhà mặt tiền,119.0,16.0,16.0,4.0,,,Sổ hồng,f89182884cd180c198ce401610dcd740
+"Xã Phước Hiệp, Huyện Củ Chi",0.84,Đất thổ cư,236.0,,,,,,Sổ hồng,c4e3a387a862f02fa1b14274d2b66472
+"Phường Tân Sơn Nhì, Quận Tân Phú",16.0,"Nhà hẻm, ngõ",120.0,3.0,3.0,,Đông,,Sổ hồng,fb65bc99ba470049a7857c994ea6ebd1
+"Phường 24, Quận Bình Thạnh",2.65,"Nhà hẻm, ngõ",22.0,2.0,3.0,1.0,,,Sổ hồng,2a632b5e647021cc9bab29ea23b6a64d
+"Phường 12, Quận 10",17.9,"Nhà hẻm, ngõ",95.0,4.0,2.0,,,,Sổ hồng,ed66a51844d7cd49aafe55b9ba731084
+"Phường Tân Thuận Tây, Quận 7",16.6,"Nhà hẻm, ngõ",130.0,24.0,25.0,6.0,,,Sổ hồng,ff6d491b50c74018a21229558848fcf8
+"Phường 16, Quận Gò Vấp",17.5,Nhà mặt tiền,135.0,18.0,19.0,6.0,,,Sổ hồng,c9bd04727a960965875c5d5bcd8acb21
+"Phường 3, Quận Phú Nhuận",2.4,"Nhà hẻm, ngõ",60.0,4.0,4.0,3.0,,,Sổ hồng,cc77dbded2a8eccdc9bccda70f2645d7
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",2.98,"Nhà hẻm, ngõ",43.0,2.0,2.0,1.0,,,Sổ hồng,11e0e4797fa7b0ec8698462daea6d039
+"Phường 6, Quận Gò Vấp",8.0,"Nhà hẻm, ngõ",68.0,5.0,6.0,4.0,Tây Nam,Tây Nam,Sổ hồng,a204ed1d69d5a9b23aa802a9c657aa88
+"Phường Tân Quý, Quận Tân Phú",1.55,"Nhà hẻm, ngõ",45.7,3.0,2.0,,,,Sổ hồng,456741eef07694c2290acacce88852e9
+"Phường 14, Quận Tân Bình",2.85,"Nhà hẻm, ngõ",29.7,,,,,,Sổ hồng,7031a9ac5e3b3bd87d65b2bacb977bdf
+"Phường 13, Quận Tân Bình",3.45,"Nhà hẻm, ngõ",53.0,3.0,2.0,,,,Sổ hồng,a57ea6ebc1164ca082565987959f0c3c
+"Phường 7, Quận Tân Bình",39.99,Nhà mặt tiền,160.0,6.0,6.0,4.0,,,Sổ hồng,dcd94d7565195063fc09bc9549750063
+"Phường 10, Quận Gò Vấp",5.7,"Nhà hẻm, ngõ",64.0,2.0,,,,,Sổ hồng,a67ad664eeecfa5822b6143b6a0cebbc
+"Phường Bình Hưng Hòa A, Quận Bình Tân",4.35,Nhà mặt tiền,40.0,2.0,,,,,Sổ hồng,96bbace43f9524f5970eef0fbb9e32ba
+"Phường 14, Quận Tân Bình",4.7,Đất thổ cư,41.9,,,,,,Sổ hồng,846b35e6af4dcf3ee6f1023465f49a0a
+"Phường Tân Tạo, Quận Bình Tân",2.92,Đất thổ cư,51.2,,,,,,Sổ hồng,b03aabaa415e3c28a537fe6001471666
+"Phường An Lạc, Quận Bình Tân",3.67,"Đất dự án, Khu dân cư",58.2,,,,Nam,,Sổ hồng,439f30779ffba4f2a04e33ad00f15c8f
+"Phường 12, Quận 10",18.5,"Nhà hẻm, ngõ",93.0,,,,,,Sổ hồng,3f79792d3bac13475c11d185abae5603
+"Huyện Củ Chi, TP.HCM",1.95,"Nhà hẻm, ngõ",100.0,2.0,1.0,,Đông Nam,,Sổ hồng,9ebd1f98597e8b79092f7e6f8838041e
+"Phường Thới An, Quận 12",2.5,"Nhà hẻm, ngõ",46.5,4.0,3.0,2.0,,,Sổ đỏ,3f25ff5aa00d29178b30098fbe88330c
+"Phường 5, Quận Gò Vấp",6.0,Đất thổ cư,52.0,,,,Đông Nam,,Sổ hồng,a7cc5f907125d319cc687f59f15f6087
+"Phường Phú Thọ Hòa, Quận Tân Phú",8.0,"Nhà hẻm, ngõ",80.5,3.0,2.0,2.0,,,Sổ hồng,1682d463d95c0971f9d3e81165826cac
+"Phường Bình Hưng Hòa A, Quận Bình Tân",4.15,"Nhà hẻm, ngõ",60.0,3.0,2.0,,,,Sổ hồng,f41762386e67fad681a99c3b700af39b
+"Xã Phong Phú, Huyện Bình Chánh",16.8,Nhà mặt tiền,160.0,,,,,,Sổ hồng,fb19cf9a5307a7caf74aa13760dc8c7c
+"Phường Đa Kao, Quận 1",28.0,Nhà mặt tiền,90.5,1.0,1.0,,,,Sổ hồng,9b3e20b5a5fbf1ca352d96fd4e403355
+"Phường 15, Quận 8",11.0,"Nhà hẻm, ngõ",174.0,3.0,1.0,2.0,Tây Nam,Tây Nam,Sổ hồng,cfdb10a53325e5c7d67d15563bd07547
+"Phường 1, Quận Bình Thạnh",2.65,"Nhà hẻm, ngõ",18.0,,,,,,Sổ hồng,48d9a90842d351e0db9854da219ebc5f
+"Phường 7, Quận Bình Thạnh",12.7,Nhà mặt tiền,55.0,,,,,,Sổ hồng,4f9694ce8a8a7cf04cecb7b9473e12fc
+"Phường Tân Chánh Hiệp, Quận 12",2.5,"Nhà hẻm, ngõ",40.0,4.0,3.0,2.0,Bắc,Bắc,Sổ hồng,8d469759c6762a2277cc8e0137038bcd
+"Phường Phạm Ngũ Lão, Quận 1",4.5,"Nhà hẻm, ngõ",48.0,3.0,4.0,,,,Sổ hồng,d80ef27ac09f0290ed49ca880ac44669
+"Phường Trường Thạnh, TP. Thủ Đức - Quận 9",13.0,Nhà mặt tiền,210.0,1.0,1.0,1.0,Đông Nam,Đông Nam,Sổ hồng,c4e639667f521757bd709dcbb4f781ed
+"Phường 12, Quận Bình Thạnh",5.5,"Nhà hẻm, ngõ",40.0,3.0,2.0,4.0,,,Sổ hồng,61a58197fe78a8839c828e16cc99a592
+"Thị Trấn Nhà Bè, Huyện Nhà Bè",4.2,"Nhà hẻm, ngõ",77.3,2.0,2.0,,,,Sổ hồng,7aee39fd84943a579c4a8fb0a4f1b82d
+"Phường 6 (Phường Võ Thị Sáu), Quận 3",79.0,Nhà mặt tiền,252.0,8.0,6.0,4.0,Đông Nam,,Sổ hồng,b3239aabf1a75f903bec6068119963bf
+"Phường Phạm Ngũ Lão, Quận 1",3.95,"Nhà hẻm, ngõ",17.0,,,,,,Sổ hồng,e6a2a5d166dfaaeedccf439a73283a1b
+"Phường 8, Quận 6",5.4,Nhà mặt tiền,26.3,,,,,,Sổ hồng,83e13d10ca52627d8c780ff46f003cfb
+"Xã Bình Chánh, Huyện Bình Chánh",0.79,Đất thổ cư,83.0,,,,,,Sổ hồng,66adf2fd74dc37c30d52b0783939d12d
+"Phường 15, Quận Tân Bình",17.5,"Nhà hẻm, ngõ",259.0,12.0,6.0,2.0,,,Sổ hồng,26c63ffc68634ae8949b47a8542bdb43
+"Phường Tân Định, Quận 1",30.0,Nhà mặt tiền,99.5,5.0,5.0,5.0,Tây Bắc,Tây Bắc,Sổ hồng,5f1219b0b432db8cb871d257dc34827b
+"Xã Phước Kiển, Huyện Nhà Bè",5.0,Đất thổ cư,127.0,,,,Đông,,Sổ hồng,402aa680aa13343fc5d625410229dbad
+"Phường 8, Quận 10",10.5,"Nhà hẻm, ngõ",50.0,5.0,3.0,,,,Sổ hồng,30e23333449859f8db95f1bbb6523725
+"Phường Bình Hưng Hòa A, Quận Bình Tân",4.52,"Nhà hẻm, ngõ",75.0,2.0,3.0,1.0,,,Sổ hồng,b2dce3344c4b4b730964b7877e54848e
+"Phường 2, Quận 4",4.35,"Nhà hẻm, ngõ",22.0,1.0,2.0,2.0,,,Sổ hồng,1f78c1671a1de490f1e0e79d321c268e
+"Phường 24, Quận Bình Thạnh",7.0,"Nhà hẻm, ngõ",42.0,3.0,2.0,2.0,Đông,Đông,Sổ hồng,b71227f5ff5ecaac59c5dd9850d734ee
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",9.6,"Nhà hẻm, ngõ",150.0,,,,,,Sổ hồng,e4b0ce9a3c5e73cf6b9e990b157ac78c
+"Phường Bình Chiểu, TP. Thủ Đức - Quận Thủ Đức",5.5,Đất thổ cư,122.0,,,,Tây Bắc,,Sổ hồng,36e7c17ec4cc2dda36269fb84710c65b
+"Phường Tân Thuận Đông, Quận 7",1.09,Nhà mặt tiền,18.8,2.0,2.0,1.0,,,Sổ đỏ,2d06953de316948020d2d85d608e22c2
+"Phường Phú Thuận, Quận 7",35.0,Nhà mặt tiền,120.0,20.0,21.0,5.0,Tây,Tây,Sổ hồng,0459d5719dd1c49b7bfae97feedc6496
+"Phường An Phú, TP. Thủ Đức - Quận 2",9.6,"Đất dự án, Khu dân cư",80.0,,,,,,Sổ hồng,8138b9e310b9c57b264a332020d80193
+"Phường 14, Quận 10",3.05,"Nhà hẻm, ngõ",17.0,,,,,Đông Bắc,Sổ hồng,74fffc0d49a64fed4d6cb926bfa5bfbe
+"Huyện Hóc Môn, TP.HCM",8.5,Nhà mặt tiền,100.0,,,1.0,,,Sổ hồng,992db3357061b5c113bdf26a92c829f6
+"Phường 6, Quận Gò Vấp",6.85,Nhà mặt tiền,80.0,2.0,1.0,,Nam,,Sổ hồng,4aa6db8e034cbf2317614bd2649db031
+"Phường 14, Quận Gò Vấp",7.35,"Nhà hẻm, ngõ",58.2,4.0,5.0,4.0,Tây,Đông,Sổ hồng,7638c54fe9e31f97be37f295dc909266
+"Phường Bến Thành, Quận 1",200.0,Nhà mặt tiền,160.0,8.0,8.0,4.0,,,Sổ đỏ,244b5d7ccefcf23f644a9516c5fe927c
+"Phường 7, Quận Bình Thạnh",9.5,"Nhà hẻm, ngõ",52.0,6.0,7.0,,Tây Bắc,Tây Bắc,Sổ hồng,b1647bdebd9d41663713506211940982
+"Phường 9, Quận Tân Bình",10.5,"Nhà hẻm, ngõ",64.0,,,,,,Sổ hồng,a736fd2bd02d39e1d45ff7ea6e3a9dd0
+"Phường Phú Thuận, Quận 7",6.5,Nhà mặt tiền,44.0,3.0,3.0,4.0,Nam,,Sổ hồng,b6180df1b67de584ad5a25b5e04de8c7
+"Phường Tân Thới Hiệp, Quận 12",5.35,"Nhà hẻm, ngõ",105.0,5.0,5.0,3.0,,,Sổ hồng,ed28295156984134b7de38645e7a5bd3
+"Phường 11, Quận 5",8.0,"Nhà hẻm, ngõ",63.0,3.0,,,,,Sổ hồng,d42c3988a5fc250581916c02273c9653
+"Quận 7, TP.HCM",25.0,Nhà mặt tiền,100.0,,,,Nam,Nam,Sổ hồng,bdfe69b61f40af214e41c0ba6eef5759
+"Phường 1, Quận 6",7.5,"Nhà hẻm, ngõ",57.0,6.0,4.0,5.0,,,Sổ hồng,0e49f138a286b668cb75c620e3cee876
+"Phường 13, Quận Phú Nhuận",200.0,Nhà mặt tiền,450.0,,,,,,Sổ hồng,626d8a1708652a547613b7a3672c6b2d
+"Phường 2, Quận Phú Nhuận",25.5,Nhà mặt tiền,129.0,,,,,,Sổ hồng,c894e7f7e6afe70aa3ed624ccf2e3bba
+"Phường 9, Quận 3",10.8,"Nhà hẻm, ngõ",42.5,3.0,2.0,,Đông,Đông,Sổ hồng,4ce3b04353cbb1a62863bb660721f3bf
+"Xã Hiệp Phước, Huyện Nhà Bè",1.25,"Đất nông nghiệp, kho bãi",493.0,,,,,,Sổ hồng,dbd72a8014f5f460d40c872ba0cb3326
+"Phường 10, Quận Tân Bình",1.55,"Nhà hẻm, ngõ",38.5,3.0,2.0,,,,Sổ hồng,205d6dd107d176a4bdd76ac8715da59a
+"Phường 9, Quận Phú Nhuận",2.68,"Nhà hẻm, ngõ",44.8,3.0,3.0,3.0,,,Sổ hồng,7e0f1cd8c0f7a13708f274db247ae588
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",32.0,Nhà mặt tiền,152.0,5.0,6.0,3.0,,,Sổ hồng,7220e49aff5a031c1325d45182b43176
+"Phường 11, Quận Bình Thạnh",23.0,Nhà mặt tiền,115.0,6.0,6.0,,,,Sổ hồng,bc3d7a032e8689c475c699a6f1746c74
+"Phường 6, Quận 5",24.0,Nhà mặt tiền,136.0,,,,,,Sổ hồng,75c48fe3177648918dd8593ccead644a
+"Phường 5, Quận Tân Bình",8.5,"Nhà hẻm, ngõ",98.4,5.0,4.0,3.0,Đông Bắc,,Sổ hồng,9bd240b053f46745ee58b386d7766c27
+"Phường 13, Quận Tân Bình",18.9,Nhà mặt tiền,240.0,4.0,3.0,2.0,,,Sổ hồng,ac2e4af22a40aa3ad53634efc1b3c9e4
+"Phường Bình Hưng Hòa B, Quận Bình Tân",1.65,Đất thổ cư,64.0,,,,,,Sổ hồng,5c14cf98addf441a4479b85dfa26e030
+"Phường Thạnh Lộc, Quận 12",11.5,Nhà mặt tiền,507.0,5.0,6.0,3.0,Đông Bắc,Đông Bắc,Sổ hồng,cffa8e898e3cce1e9c7013f64eba8f77
+"Phường 14, Quận 5",2.6,"Nhà hẻm, ngõ",83.0,5.0,2.0,,,,Sổ hồng,5ddef92b9e52af8a6f1c6018d6118dbf
+"Phường 12, Quận 10",21.5,"Nhà hẻm, ngõ",90.0,4.0,4.0,3.0,,,Sổ hồng,1cf93d59570326682025bd26b54fc98f
+"Phường Bình Hưng Hòa, Quận Bình Tân",2.63,"Nhà hẻm, ngõ",35.0,4.0,3.0,2.0,,,Sổ hồng,a706bb08ad864f9874c287495990649f
+"Phường Phạm Ngũ Lão, Quận 1",18.0,"Nhà hẻm, ngõ",48.8,6.0,6.0,4.0,Đông Bắc,Đông,Sổ hồng,de24ea6747e2e661bad0cc848b6952bf
+"Phường 7, Quận Gò Vấp",13.5,Nhà mặt tiền,100.0,4.0,4.0,3.0,,,Sổ hồng,112321ea703b396f44b6342ff07cb0c8
+"Phường Linh Trung, TP. Thủ Đức - Quận Thủ Đức",3.75,"Nhà hẻm, ngõ",74.0,2.0,1.0,2.0,,,Sổ hồng,fa3bbab20b73934d362ed1b422a8345d
+"Phường Linh Xuân, TP. Thủ Đức - Quận Thủ Đức",3.89,Nhà mặt tiền,60.0,4.0,4.0,4.0,Đông Bắc,,Sổ hồng,cbdda0dea77b2f37faf4a1d0df28a417
+"Phường An Phú Đông, Quận 12",3.3,Đất thổ cư,84.0,,,,,,Sổ hồng,3ab627328f8c3a535baf4dd3d56613db
+"Phường Bình Trị Đông, Quận Bình Tân",6.7,Nhà mặt tiền,80.0,2.0,2.0,,,,Sổ hồng,08d1ef3ec1822a4fb5902742be6ba8a2
+"Phường 24, Quận Bình Thạnh",7.8,"Nhà hẻm, ngõ",70.0,3.0,3.0,2.0,,,Sổ hồng,5f8e4504878ec572e27e741426811bce
+"Phường Hiệp Bình Phước, TP. Thủ Đức - Quận Thủ Đức",1.99,"Nhà hẻm, ngõ",60.0,3.0,3.0,,,,Sổ hồng,14f2d625490eee8a02ff9eacbf704ee4
+"Phường Tân Quy, Quận 7",33.0,Nhà mặt tiền,100.0,6.0,6.0,4.0,Đông Bắc,Đông,Sổ hồng,557db84bd89038bb36bbff36b2e3204c
+"Phường Tân Phú, TP. Thủ Đức - Quận 9",14.5,Nhà mặt tiền,220.7,3.0,2.0,,Đông Bắc,,Sổ đỏ,281eca443ce2a5a2053088d53a974e59
+"Phường 3, Quận Tân Bình",1.55,"Nhà hẻm, ngõ",35.0,2.0,2.0,,,,Sổ hồng,8415c098bc03a8ee2ad6719df95b2999
+"Phường 4, Quận 8",1.65,"Nhà hẻm, ngõ",33.8,2.0,2.0,1.0,,,Sổ đỏ,a75b228f7dbbf483125b67ebc334467f
+"Phường 13, Quận Bình Thạnh",8.9,"Nhà hẻm, ngõ",64.0,4.0,4.0,4.0,,,Sổ hồng,61af31bc6d6f256a6a7f801aade4eef7
+"Phường 13, Quận 5",9.48,"Nhà hẻm, ngõ",64.0,3.0,4.0,2.0,Đông Nam,,Sổ hồng,e0c8afc3401bff7b4865ce21ec0ae053
+"Phường 12, Quận Bình Thạnh",2.5,"Nhà hẻm, ngõ",38.5,2.0,2.0,,,,Sổ hồng,5c436bb63237acec70ddc673931b5393
+"Phường 11, Quận 5",23.0,Nhà mặt tiền,73.0,,,2.0,,,Sổ hồng,1412831bde2039f0d9c9f42d78844cb9
+"Phường 11, Quận Bình Thạnh",4.8,"Nhà hẻm, ngõ",30.0,2.0,2.0,2.0,Đông Nam,,Sổ hồng,1e98fe3956914ac776ff090be77c4202
+"Phường 5, Quận Bình Thạnh",12.0,"Nhà hẻm, ngõ",127.0,6.0,5.0,,,,Sổ hồng,a96e2a5a8bc62107523279fd07642afc
+"Phường 14, Quận Gò Vấp",6.95,"Nhà hẻm, ngõ",90.0,13.0,13.0,3.0,,,Sổ hồng,e7e484c3e05d587baf12293f0bc349d1
+"Phường 1, Quận Bình Thạnh",2.65,"Nhà hẻm, ngõ",53.7,2.0,2.0,,,,Sổ hồng,30f849213329ccd11d1296e793672ea4
+"Phường 15, Quận 10",21.0,Nhà mặt tiền,89.0,3.0,2.0,2.0,,,Sổ hồng,af4267eb3aef5d857f8f23b09d984d06
+"Phường 3, Quận Bình Thạnh",1.99,"Nhà hẻm, ngõ",15.0,2.0,2.0,2.0,Đông Nam,Đông Nam,Giấy tờ khác,bbb1e394966aaacb1e14ca61d0654725
+"Phường Tân Phong, Quận 7",10.7,Nhà mặt tiền,65.0,3.0,2.0,2.0,Tây,Tây,Sổ hồng,a19246895cc31209bed5cfdcf2222aa4
+"Phường Thạnh Lộc, Quận 12",2.5,"Nhà hẻm, ngõ",61.3,3.0,1.0,1.0,,,Sổ hồng,0dc6361325fa7ccb0cdebf0aa935eae5
+"Phường 7 (Phường Võ Thị Sáu), Quận 3",36.0,"Nhà hẻm, ngõ",170.0,4.0,5.0,3.0,,,Sổ hồng,41c2cf27fc1fa648cd06a313a6c85bc4
+"Xã Phước Hiệp, Huyện Củ Chi",1.75,"Đất nông nghiệp, kho bãi",1155.0,,,,,,Sổ hồng,8ad4fbcbf995796695d8e9973ec99cb6
+"Phường 11, Quận 5",7.9,Nhà mặt tiền,76.8,,,,,,Sổ hồng,2f7f266f9831504cfe1c3fe1b9a8d069
+"Phường Hiệp Bình Chánh, TP. Thủ Đức - Quận Thủ Đức",13.3,Nhà mặt tiền,90.0,4.0,3.0,,,,Sổ hồng,79a84fa8789a736f94e57f170a6892f1
+"Phường 11, Quận Gò Vấp",11.5,Nhà mặt tiền,160.0,2.0,2.0,,,,Sổ hồng,84d313a1ecca16f96342d4ef44bdae0a
+"Phường Hiệp Bình Phước, TP. Thủ Đức - Quận Thủ Đức",2.35,"Nhà hẻm, ngõ",30.0,1.0,2.0,,,,Sổ hồng,25fc4c8e3d72bf835467f8e198be268f
+"Phường Tây Thạnh, Quận Tân Phú",6.0,"Nhà hẻm, ngõ",75.6,3.0,3.0,2.0,,,Sổ hồng,2972323f4dbc75e990758072a921df24
+"Phường 15, Quận Tân Bình",2.3,"Nhà hẻm, ngõ",58.5,3.0,4.0,3.0,,,Sổ hồng,02737f57145102f684ba1c9d680eaa48
+"Phường Tân Quy, Quận 7",26.0,Nhà mặt tiền,146.0,8.0,8.0,,Nam,Nam,Sổ hồng,46c9a3fa9353417b6aec620465b6f636
+"Phường An Phú, TP. Thủ Đức - Quận 2",9.999,Đất thổ cư,80.0,,,,,,Sổ hồng,1395c771e7ef01fdaf039c2ec3017965
+"Phường 3, Quận 5",55.0,Nhà mặt tiền,105.0,9.0,7.0,,,,Sổ hồng,e5a3ae2b0fc93a743f33fa388de38922
+"Phường 22, Quận Bình Thạnh",15.5,"Nhà hẻm, ngõ",114.0,4.0,5.0,3.0,,,Sổ hồng,3170576bac273966f06ce48260a5d038
+"Phường 15, Quận 10",14.0,"Nhà hẻm, ngõ",64.0,9.0,8.0,5.0,,,Sổ hồng,e5f59d99652d9e6975dcc1ea88c4a2d8
+"Phường Bến Thành, Quận 1",23.0,Nhà mặt tiền,100.0,6.0,,5.0,,,Sổ hồng,666fe8e157f871aa2890f6432370da4e
+"Phường 3, Quận Bình Thạnh",47.0,"Biệt thự, Villa",155.0,5.0,5.0,5.0,,,Sổ đỏ,9cd2cf1ae03d381073e83954254c1e69
+"Phường Linh Đông, TP. Thủ Đức - Quận Thủ Đức",13.5,"Nhà hẻm, ngõ",200.0,4.0,3.0,2.0,Nam,Nam,Sổ hồng,c4953786267691d4bfd556a9313079e6
+"Phường 5, Quận 11",10.5,Nhà mặt tiền,56.0,7.0,7.0,5.0,,,Sổ hồng,861753ad0e19a38e2908945ba774a33d
+"Xã Bà Điểm, Huyện Hóc Môn",7.0,Nhà mặt tiền,109.0,1.0,1.0,1.0,Đông Bắc,,Sổ hồng,390d42b1649babeb3af5f31e532bc2be
+"Phường Tân Định, Quận 1",28.0,"Biệt thự, Villa",113.0,5.0,6.0,4.0,Đông Bắc,,Sổ hồng,7279b5a727dd6c7f6725be7e4de8ede6
+"Phường 3, Quận 11",5.5,Nhà mặt tiền,22.2,,,,,,Giấy tờ hợp lệ,fec559131a020438ef6718e8a66df020
+"Thị Trấn Củ Chi, Huyện Củ Chi",0.59,Đất thổ cư,140.0,,,,,,Sổ hồng,b09f14ee65527829016c0fec677fae77
+"Phường Hiệp Thành, Quận 12",2.5,"Nhà hẻm, ngõ",40.0,3.0,3.0,3.0,,,Sổ hồng,2542dff908584a1547edbc39d14a9a38
+"Phường An Lạc, Quận Bình Tân",5.5,"Nhà hẻm, ngõ",68.0,5.0,4.0,4.0,,,Sổ hồng,21d02fbd55dc4e19991daa953ad8d3d4
+"Phường 11, Quận 11",8.0,Nhà mặt tiền,40.0,,,,,,Sổ hồng,62e940fc88f9403b2ecf58e761a3dfe8
+"Phường 22, Quận Bình Thạnh",14.5,"Nhà hẻm, ngõ",60.0,4.0,6.0,,Tây Bắc,Tây Bắc,Sổ hồng,0919963b965071983941e5cb8ba45593
+"Xã Tân Phú Trung, Huyện Củ Chi",0.59,Đất thổ cư,128.0,,,,,,Sổ hồng,b913d62955baccb2683f4a4e76c534fe
+"Phường 22, Quận Bình Thạnh",4.25,"Nhà hẻm, ngõ",60.0,3.0,2.0,1.0,,,Sổ đỏ,77826babb11760230683348991df9e1f
+"Phường 11, Quận Tân Bình",11.9,Nhà mặt tiền,63.0,5.0,5.0,4.0,,,Sổ hồng,51e1da6d411f2097b378836bf273c999
+"Phường Tân Quy, Quận 7",19.0,Nhà mặt tiền,79.1,8.0,9.0,,,,Sổ hồng,9ef0d277e8400c76573402d8e3ddea63
+"Xã Vĩnh Lộc A, Huyện Bình Chánh",1.25,"Đất dự án, Khu dân cư",136.0,,,,,,Giấy tờ hợp lệ,07330d513f2d9af33e8cb168ac7a139b
+"Phường 14, Quận Tân Bình",60.0,Nhà mặt tiền,280.0,2.0,2.0,2.0,,,Sổ hồng,b30c496028afdea5b4f52a08a2335cdd
+"Phường 6 (Phường Võ Thị Sáu), Quận 3",79.0,Nhà mặt tiền,252.0,8.0,4.0,3.0,Đông Nam,,Sổ hồng,933d4f6a8f14563c0c633b9dc51e197b
+"Phường 9, Quận Tân Bình",4.5,Nhà mặt tiền,25.0,,,,,,Sổ hồng,5269853c111213a7fead2a1e351448e3
+"Phường Thạnh Xuân, Quận 12",0.52,"Nhà hẻm, ngõ",13.2,2.0,1.0,3.0,Tây Bắc,Tây Bắc,Giấy tờ khác,ef5f750ae5a0e97f5a955d8d5c1bad46
+"Phường 7, Quận Phú Nhuận",4.06,Nhà mặt tiền,48.0,5.0,5.0,4.0,,,Sổ hồng,8cb3c833f13adfd44917a1adf0eac843
+"Phường Bình Hưng Hòa A, Quận Bình Tân",1.25,"Nhà hẻm, ngõ",65.0,3.0,2.0,1.0,,,Sổ hồng,0ed9ffb6bde2e11df72c5be876f7d0fe
+"Phường Bình Thuận, Quận 7",4.0,"Nhà hẻm, ngõ",35.0,2.0,2.0,2.0,,,Sổ hồng,66f36d843ceafaf9758b7e9389314f0d
+"Phường 3, Quận Tân Bình",4.5,"Nhà hẻm, ngõ",64.0,4.0,5.0,3.0,,,Sổ hồng,32715bff38f777245efcfdbb67183754
+"Phường 8 (Phường Võ Thị Sáu), Quận 3",2.0,"Nhà hẻm, ngõ",20.8,2.0,2.0,1.0,,,Sổ đỏ,97ccf7799d542c05eca5518eee508fd8
+"Xã Bà Điểm, Huyện Hóc Môn",0.7,"Nhà hẻm, ngõ",100.0,,,,,,Sổ hồng,3ea0dd6371de53c3fb70d1ddbfb9d889
+"Phường 7, Quận 8",0.88,"Nhà hẻm, ngõ",55.0,2.0,2.0,1.0,,,Sổ hồng,5028eeba9e6ae9cc6d85c823a70401b3
+"Phường 1, Quận Phú Nhuận",2.79,Nhà mặt tiền,52.0,4.0,4.0,,,,Sổ hồng,e24eebc9865b9852ef5ea6a41168695b
+"Xã Phước Kiển, Huyện Nhà Bè",11.5,Nhà mặt tiền,90.0,4.0,4.0,4.0,Tây,,Sổ hồng,1bb13b7011656beadc1610626a34d24b
+"Phường Linh Chiểu, TP. Thủ Đức - Quận Thủ Đức",4.5,"Nhà hẻm, ngõ",63.0,2.0,1.0,,Đông Nam,,Sổ hồng,540d8ac6dd75018d14ce71494b956669
+"Phường 12, Quận 6",3.85,"Nhà hẻm, ngõ",56.0,3.0,2.0,2.0,Đông Bắc,Đông Bắc,Sổ hồng,3a17c90f3c2521a640a4713cc0d16c43
+"Phường Thới An, Quận 12",6.8,"Nhà hẻm, ngõ",124.0,2.0,2.0,2.0,,,Sổ hồng,5acef8255b0dd6a96b0c6e903a6d3168
+"Phường 5, Quận 3",13.8,"Nhà hẻm, ngõ",60.0,,,,,,Sổ hồng,74ef1397ec217052cad498ce2f9b352e
+"Phường 6, Quận Bình Thạnh",4.25,"Nhà hẻm, ngõ",19.0,2.0,3.0,4.0,,,Sổ hồng,0fd67a0345789bf572afe6979ab062a6
+"Phường 7, Quận Bình Thạnh",36.0,Nhà mặt tiền,160.0,5.0,5.0,4.0,,,Sổ hồng,652cf1fa50d2f4967deeb00ab8178fad
+"Huyện Nhà Bè, TP.HCM",6.5,"Đất dự án, Khu dân cư",126.0,,,,Đông Bắc,,Sổ đỏ,c219760c3984d870c3c1b3409f4639cd
+"TP. Thủ Đức - Quận 2, TP.HCM",17.5,Nhà mặt tiền,86.0,5.0,6.0,,,,Sổ hồng,00ab9b6dcab5fd59c04d3cec4e0fd93c
+"Phường 7, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",40.0,2.0,2.0,2.0,,,Sổ hồng,4c32f232ab5d627206613b6a7107d158
+"Phường 14, Quận Gò Vấp",6.5,Nhà mặt tiền,68.0,4.0,4.0,3.0,,,Sổ hồng,95193b242de57b3b159606134c77576a
+"Phường 2, Quận Phú Nhuận",2.4,"Nhà hẻm, ngõ",45.8,3.0,3.0,,,,Sổ hồng,75ef909d5613e8ad49778a4e3ca4f2e6
+"Phường Bình Hưng Hòa A, Quận Bình Tân",3.18,"Nhà hẻm, ngõ",60.0,1.0,,,,,Sổ hồng,8996d18308e4ee9e774c30e4078c73ef
+"Phường 11, Quận 11",1.8,"Nhà hẻm, ngõ",35.5,2.0,2.0,1.0,,,Sổ đỏ,ab6f9473af8d5bdd79e0b2d5b65463d7
+"Phường Cô Giang, Quận 1",2.5,"Nhà hẻm, ngõ",15.0,1.0,2.0,,,,Sổ hồng,daad2df428ba023b05d7de1a65058af1
+"Phường 2, Quận Phú Nhuận",23.5,Nhà mặt tiền,64.0,6.0,5.0,4.0,,,Sổ đỏ,dcab9f7053a936cbfd2d3b49240c4ada
+"Phường Tân Định, Quận 1",41.0,Nhà mặt tiền,150.0,,,,Tây Bắc,,Sổ hồng,8d9a7b926cc813926ee3bfa722d5235d
+"Phường An Khánh, TP. Thủ Đức - Quận 2",24.0,Nhà mặt tiền,96.0,,,,Tây Nam,,Sổ hồng,d0d633a3c400d7aee6ca6a87080f2b22
+"Phường Phú Thạnh, Quận Tân Phú",35.0,Nhà mặt tiền,150.0,2.0,2.0,,,,Sổ hồng,f2a9768f7e2e0d73260cd531863fabdf
+"Phường 3, Quận 3",4.4,Nhà mặt tiền,70.0,4.0,4.0,,,,Sổ hồng,4d79f9be3944e82d4e5c65ecf6128743
+"Phường 9, Quận Gò Vấp",4.66,"Nhà hẻm, ngõ",41.4,2.0,2.0,2.0,Tây Bắc,,Sổ hồng,b22ad9c79c8150f3841ffc5a01344c7c
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",15.3,Đất thổ cư,100.0,,,,Tây Bắc,,Sổ đỏ,70c7358859b174a74ecba41cdbe4d29d
+"Phường 5, Quận Gò Vấp",2.2,"Nhà hẻm, ngõ",53.9,4.0,3.0,,,,Sổ hồng,8bfadcfeb65a101e9292ed59069740f3
+"TP. Thủ Đức - Quận 9, TP.HCM",14.7,Nhà mặt tiền,85.0,4.0,4.0,3.0,Tây Nam,Tây Nam,Sổ hồng,7feaba12ddb8b0b154e4f610c9f4e455
+"Xã Tân Thông Hội, Huyện Củ Chi",0.72,"Nhà hẻm, ngõ",120.0,,,,,,Sổ hồng,a088685f664afffb013386edffb40f7c
+"Phường Bình Hưng Hòa A, Quận Bình Tân",7.0,"Nhà hẻm, ngõ",50.0,4.0,3.0,,,,Sổ đỏ,8b8f75a53e370288ee5755a65f8c97a3
+"Phường 8, Quận Gò Vấp",2.75,"Nhà hẻm, ngõ",35.0,2.0,2.0,,,,Sổ hồng,6663b7d49df81eecd95552c54358acba
+"Phường 16, Quận 4",5.5,Nhà mặt tiền,44.5,2.0,3.0,1.0,,,Sổ đỏ,f6bd0559225ea3f445c36720c92245df
+"Phường 9, Quận Phú Nhuận",2.4,"Nhà hẻm, ngõ",38.1,3.0,4.0,2.0,,,Sổ đỏ,50c5c14b0c69d95273dab2e685aa193b
+"Phường 9, Quận Gò Vấp",9.0,"Nhà hẻm, ngõ",68.0,5.0,6.0,4.0,,,Sổ hồng,fcfa368e2965ecfdf54acfaf4b459a70
+"Phường 13, Quận 6",6.5,"Nhà hẻm, ngõ",86.7,2.0,3.0,1.0,,,Sổ hồng,323a08bab3aea84842347595f4446204
+"Phường 12, Quận Bình Thạnh",8.9,"Nhà hẻm, ngõ",75.0,,,,,,Sổ hồng,64da49dd5d5895d3d0bada3dc07a5003
+"Phường 25, Quận Bình Thạnh",9.5,"Nhà hẻm, ngõ",84.0,,,,,,Sổ hồng,76a10be2a030ddc50efb7bd2a16b8ea5
+"Phường 17, Quận Bình Thạnh",14.5,"Nhà hẻm, ngõ",68.0,5.0,6.0,4.0,,,Sổ hồng,0df81a98c562cde49f37f58a6d0b6b43
+"Phường Tân Thành, Quận Tân Phú",5.5,"Nhà hẻm, ngõ",50.0,1.0,1.0,,Bắc,Bắc,Sổ hồng,c67cf7751e70255b7a6f4caf135d0e11
+"Phường 11, Quận Bình Thạnh",36.0,Nhà mặt tiền,193.7,30.0,29.0,,,,Sổ hồng,5846162c00468c5a6e50f83901a4ff11
+"Xã Tân Kiên, Huyện Bình Chánh",0.75,"Nhà hẻm, ngõ",116.0,2.0,2.0,,,,Sổ hồng,00c7ad7d59f8cd693c2d208380b70bc3
+"Phường 11, Quận Bình Thạnh",5.9,"Nhà hẻm, ngõ",63.0,4.0,3.0,2.0,,,Sổ hồng,bf0bd1b997979a34dbe2585273ca02fc
+"Xã Đông Thạnh, Huyện Hóc Môn",4.2,Đất thổ cư,100.0,,,,Đông,,Sổ hồng,dfa82329beb968534e74400a28bb089e
+"Phường 2, Quận 8",13.0,"Nhà hẻm, ngõ",100.0,4.0,5.0,,Bắc,,Sổ hồng,473454eede08fbacf6469843a64005b8
+"Phường Hiệp Tân, Quận Tân Phú",2.9,Nhà mặt tiền,23.0,2.0,2.0,3.0,Tây,Nam,Sổ hồng,53729441780218d0f1e474fa501c2867
+"Phường 9, Quận 11",33.0,Nhà mặt tiền,122.0,,,4.0,,,Sổ hồng,3e803e400557e2e548de6c63c5d74198
+"Phường Hiệp Bình Phước, TP. Thủ Đức - Quận Thủ Đức",38.5,Đất thổ cư,450.0,,,,,,Sổ hồng,b63026834c7263519b3e5c971df9ff79
+"Xã Bình Hưng, Huyện Bình Chánh",20.0,Nhà mặt tiền,100.0,6.0,8.0,4.0,Tây,Tây,Sổ hồng,f46f1dff73f788e20916fc2810616a79
+"Xã Trung Chánh, Huyện Hóc Môn",0.6,"Nhà hẻm, ngõ",60.0,,,,,,Sổ hồng,22f1d9d8581bb463f2212bd504ab1e9c
+"Phường 13, Quận 11",6.0,"Nhà hẻm, ngõ",39.0,4.0,3.0,,Đông Bắc,,Sổ hồng,b7e65057e0f0ea4d919c509c83e3c416
+"Phường 3, Quận 8",13.5,Nhà mặt tiền,64.0,4.0,5.0,,,,Sổ hồng,27d58b05c91d83e4505a46fb43c48fff
+"Phường 4, Quận 8",7.9,Nhà mặt tiền,48.0,2.0,2.0,2.0,,,Sổ hồng,165fb373e3b586424bf3e3e69af6d813
+"Phường 25, Quận Bình Thạnh",7.6,"Nhà hẻm, ngõ",40.0,8.0,9.0,4.0,,,Sổ hồng,a6a8444b45d2df98e880fac96e819292
+"Phường 4, Quận 8",13.5,Nhà mặt tiền,80.0,5.0,6.0,4.0,,,Sổ hồng,2592b21ca524c63fccaa06f1b8a4e4dc
+"Phường 7, Quận 8",15.8,Nhà mặt tiền,233.0,2.0,2.0,1.0,,,Sổ hồng,13495250161f91a73e944c1a9e230365
+"Phường Tân Thới Hiệp, Quận 12",6.25,"Nhà hẻm, ngõ",72.0,5.0,5.0,4.0,,,Sổ hồng,6d05cd74673df088879a158ae27a9b24
+"Phường 7 (Phường Võ Thị Sáu), Quận 3",10.5,"Nhà hẻm, ngõ",41.0,5.0,6.0,4.0,Tây Nam,,Sổ hồng,97d4a06f61e4f613c738b1c237eea6e0
+"Phường 2, Quận 6",3.0,"Nhà hẻm, ngõ",68.0,,,,,,Sổ hồng,e3b4e46039c3cb41a632d662be3aa98f
+"Phường 11, Quận Tân Bình",10.9,"Nhà hẻm, ngõ",60.0,4.0,2.0,1.0,Tây,Tây Bắc,Sổ hồng,373668dc9fc7c7c7896a347b522c9076
+"Phường 7, Quận Phú Nhuận",4.75,"Nhà hẻm, ngõ",36.0,5.0,4.0,,,,Sổ hồng,6e70c51f13cef3305b32028fbc578408
+"Phường 11, Quận 6",10.0,Nhà mặt tiền,60.0,,,3.0,,,Sổ hồng,3337875e1ce907444c00d8212c926b6d
+"Phường Phú Thuận, Quận 7",2.89,"Nhà hẻm, ngõ",28.6,2.0,3.0,3.0,Đông,Đông,Sổ hồng,800e17db85c765c160ce6d3186af34b3
+"Phường Bình Trị Đông B, Quận Bình Tân",12.0,Nhà mặt tiền,100.0,4.0,5.0,3.0,Tây,Tây,Sổ hồng,4bd0ebb1ca696bc58340606f35042fbb
+"Xã Tân Thông Hội, Huyện Củ Chi",0.6,Nhà mặt tiền,130.0,2.0,,,,,Sổ hồng,8c4b6fa7b51592d6973563c4eda02e27
+"Phường 2, Quận 5",12.0,Nhà mặt tiền,26.2,4.0,,5.0,,,Sổ hồng,ebbf07a2c388f67a5cb501dde5135176
+"Phường 6 (Phường Võ Thị Sáu), Quận 3",23.9,Nhà mặt tiền,80.0,,,,,,Sổ hồng,2b0dd477160e5a6a9d07f171be9acb36
+"Phường 19, Quận Bình Thạnh",23.0,Nhà mặt tiền,81.0,,,,,,Sổ hồng,bfc11d64d7bddfca66a7a235916eb3ad
+"Phường 5, Quận 8",0.89,"Nhà hẻm, ngõ",192.0,4.0,3.0,2.0,,,Sổ hồng,c2052b8b3890babc362c3abfca4eb8d4
+"Phường Nguyễn Cư Trinh, Quận 1",26.0,Nhà mặt tiền,99.0,,,5.0,,,Sổ hồng,acd4b1a5e4c36fe0e6127f60039fccd9
+"Phường Trường Thọ, TP. Thủ Đức - Quận Thủ Đức",7.95,Đất thổ cư,130.0,,,,,,Sổ hồng,8b78f02044fdade89ad82a5cfdcaf04b
+"Xã Bà Điểm, Huyện Hóc Môn",0.7,"Nhà hẻm, ngõ",90.0,2.0,,,,,Sổ hồng,166b5aa8775f3f7dc32052c13fa2d5ec
+"Phường Tây Thạnh, Quận Tân Phú",1.29,Nhà mặt tiền,63.2,3.0,2.0,,,,Sổ hồng,15a36018a508ef4b995b16dd03d4f9e2
+"Xã Xuân Thới Sơn, Huyện Hóc Môn",0.7,"Nhà hẻm, ngõ",110.0,,,,,,Sổ hồng,32eabbf30f43890834ab68917230c512
+"Xã Xuân Thới Thượng, Huyện Hóc Môn",5.6899999999999995,Nhà mặt tiền,80.4,4.0,4.0,4.0,Đông,,Sổ hồng,146d939a52e159debeceeffbf6c5129b
+"Phường Thới An, Quận 12",4.95,"Nhà hẻm, ngõ",112.0,,,,,,Sổ hồng,7f0927818cc69ec6507b410eff94a8c3
+"Phường 9, Quận Gò Vấp",0.986,"Nhà hẻm, ngõ",64.0,3.0,2.0,,,,Sổ hồng,11b261938d8955d3bbe90bd93d7719dc
+"Phường 11, Quận Bình Thạnh",2.65,"Nhà hẻm, ngõ",42.0,3.0,2.0,,,,Sổ hồng,589bb21f8e8993ef11efd2d087fceb3c
+"Phường 12, Quận Gò Vấp",6.0,Đất thổ cư,69.0,,,,,,Sổ hồng,5d2a4ff5b377d3fd2c8c51a1a21c39a2
+"Phường 10, Quận 10",4.5,"Nhà hẻm, ngõ",28.0,,,2.0,Đông,,Sổ hồng,be840b329a06d7b7811245887322c46f
+"Phường 7, Quận 5",1.11,"Nhà hẻm, ngõ",61.3,2.0,2.0,,,,Sổ hồng,3df8eba5d5220d77676c77773d02b8e9
+"Thị Trấn Tân Túc, Huyện Bình Chánh",4.0,Nhà mặt tiền,88.0,1.0,1.0,1.0,Tây Nam,,Sổ hồng,6225a40ef41665f3b80c6d4c24b2b121
+"Phường Bình Hưng Hòa A, Quận Bình Tân",3.18,"Nhà hẻm, ngõ",42.0,3.0,2.0,3.0,,,Sổ hồng,9933b6b50771478796909e9c11f10c98
+"Phường 4, Quận 10",5.69,"Nhà hẻm, ngõ",44.0,3.0,3.0,4.0,,,Sổ hồng,131662d4b229f1d47cb053f1dfdd092d
+"Phường Bình Hưng Hòa A, Quận Bình Tân",3.99,"Nhà hẻm, ngõ",42.0,3.0,2.0,2.0,,Tây Bắc,Sổ hồng,07ba169a6a99eef47be9c46a76d90f4e
+"Phường 14, Quận Tân Bình",10.9,"Nhà hẻm, ngõ",100.0,5.0,5.0,5.0,,,Sổ hồng,fbc83f6c0ada62c78ba415357f2b1ae3
+"Phường 12, Quận 10",11.5,"Nhà hẻm, ngõ",65.0,5.0,5.0,,,,Giấy tờ hợp lệ,b384fb0aa1f7aadd9991299808d8bbe3
+"Phường Bến Thành, Quận 1",22.5,Nhà mặt tiền,81.0,6.0,6.0,4.0,,,Giấy tờ hợp lệ,9d20b6e5884fda2f318b2fe9bcaa5214
+"Phường 12, Quận 10",17.99,"Nhà hẻm, ngõ",108.0,4.0,4.0,4.0,,,Sổ hồng,b571345a6e86b6830d01b3fbbfefe730
+"Phường 12, Quận 10",14.2,"Nhà hẻm, ngõ",70.0,,,,,,Giấy tờ hợp lệ,97f85f5925df7754687c7335672e1765
+"Phường 1, Quận 10",6.5,"Nhà hẻm, ngõ",51.0,2.0,2.0,2.0,,,Sổ hồng,53131097b644c596af1fdd7811833e8a
+"Phường 6, Quận 10",13.3,Nhà mặt tiền,50.0,4.0,5.0,,,,Giấy tờ hợp lệ,9b0aa46d7598e759874bfddba01b210c
+"Phường Phú Thọ Hòa, Quận Tân Phú",6.8,Nhà mặt tiền,78.0,2.0,2.0,2.0,,,Sổ hồng,de753bfc3a62a561896566fdd634c505
+"Phường 14, Quận 10",11.0,"Nhà hẻm, ngõ",60.0,4.0,5.0,,,,Sổ hồng,68bf6f1a84ac5b5f7be774253d558219
+"Phường 3, Quận 3",23.5,"Nhà hẻm, ngõ",140.0,5.0,6.0,,,,Giấy tờ hợp lệ,71e3e6326e4c16104fbb7f357ff57c0f
+"Phường 24, Quận Bình Thạnh",0.96,"Nhà hẻm, ngõ",54.8,3.0,2.0,,,,Sổ hồng,60cee8744d3727dfd067218c81685662
+"Phường 13, Quận Phú Nhuận",21.5,Nhà mặt tiền,76.0,5.0,5.0,3.0,,,Sổ hồng,bb79fa89862ca97d575b30287d6879de
+"Phường Cô Giang, Quận 1",7.3,"Nhà hẻm, ngõ",52.0,,2.0,2.0,,Tây Bắc,Sổ hồng,1ed9486593f881d95807765f68eb853e
+"TP. Thủ Đức - Quận 9, TP.HCM",4.8,"Đất dự án, Khu dân cư",190.0,,,,Tây,,Hợp đồng mua bán,b6f7c77903c3f31e4d849544fade3e2a
+"Phường 5, Quận 8",0.92,"Nhà hẻm, ngõ",61.2,3.0,2.0,,,,Sổ hồng,9e1cebe5508d9ea0b6c519925cf20f7a
+"Phường 11, Quận Gò Vấp",12.0,"Nhà hẻm, ngõ",66.0,6.0,7.0,5.0,,,Sổ hồng,0d0c0a324d393de57c63b49b4a41b51f
+"Phường 3, Quận 8",3.98,"Nhà hẻm, ngõ",40.0,2.0,1.0,1.0,,,Sổ hồng,90cf8309bc4f18e61b46613ec27c87e8
+"Phường 1, Quận 8",8.5,Nhà mặt tiền,68.0,2.0,2.0,,,,Sổ hồng,a62c919e5a1555da2fe0ba1edc796289
+"Phường Trường Thạnh, TP. Thủ Đức - Quận 9",16.0,Nhà mặt tiền,98.7,6.0,5.0,4.0,Đông Nam,Đông Nam,Sổ hồng,db448e383b2a4ee338b4882b06c59f3e
+"Phường 2, Quận 8",4.35,"Nhà hẻm, ngõ",46.0,4.0,3.0,2.0,,,Sổ hồng,262e32465a5c963872e8f28ba44d8f85
+"Phường 9, Quận 8",3.88,"Nhà hẻm, ngõ",30.0,3.0,2.0,2.0,,,Sổ hồng,d086cbe613e9295583caf2c20380c166
+"Phường 5, Quận 8",4.99,"Nhà hẻm, ngõ",44.0,2.0,2.0,1.0,,,Sổ hồng,d80b48b71ce82073001662dd975f7bfc
+"Phường 9, Quận 8",2.8,"Nhà hẻm, ngõ",18.0,3.0,3.0,3.0,,,Sổ hồng,e978a36a800291f15794715a6fe5e97c
+"Phường 9, Quận 8",3.3,"Nhà hẻm, ngõ",26.0,2.0,2.0,,,,Sổ hồng,aead15aa2a11793f9f0dc3c479aed4da
+"Phường 3, Quận 8",4.88,"Nhà hẻm, ngõ",35.0,2.0,2.0,2.0,,,Sổ hồng,d6de601e78283ed27c79976820e211af
+"Phường 5, Quận 8",6.5,"Nhà hẻm, ngõ",80.0,6.0,3.0,2.0,,,Sổ hồng,f76fb2b370213a869d637914bc9ee224
+"Phường 12, Quận 8",4.2,"Nhà hẻm, ngõ",43.2,3.0,3.0,1.0,,,Sổ hồng,9fc08d61d7d39bfcb370b9e07cd1cf40
+"Phường 4, Quận 8",4.88,"Nhà hẻm, ngõ",35.0,,,1.0,,,Sổ hồng,f1ebc4f510b225a37054c64c13d9a3d5
+"Phường 4, Quận Gò Vấp",41.5,Nhà mặt tiền,220.0,4.0,3.0,2.0,,,Sổ hồng,7aaffd31980fbdb03bc93e03bacf2d81
+"Phường 2, Quận Tân Bình",16.0,"Nhà hẻm, ngõ",63.0,3.0,3.0,3.0,Nam,Nam,Sổ đỏ,c05acb070c91329c48a1b82acd9a85e3
+"Phường Phước Long B, TP. Thủ Đức - Quận 9",2.05,Đất thổ cư,110.0,,,,,,Sổ hồng,f04295537c759e9a6ca1c4e1ac556b5d
+"Phường 14, Quận Gò Vấp",6.5,"Nhà hẻm, ngõ",48.0,4.0,4.0,4.0,,,Sổ hồng,074d5237fface2364ccd761699bb4321
+"Phường 3, Quận 6",6.5,"Nhà hẻm, ngõ",60.0,3.0,3.0,3.0,,,Sổ hồng,a801dbec44fe4936151cfb3c28739a37
+"Phường Phước Long B, TP. Thủ Đức - Quận 9",0.99,"Nhà hẻm, ngõ",63.0,3.0,2.0,,,,Sổ hồng,4a2e94c1d3a6e09dd568b9935b563bbc
+"Xã Phạm Văn Hai, Huyện Bình Chánh",10.0,Đất thổ cư,940.0,,,,,,Sổ hồng,6d9900d45e886dc0eda940a1bcad0494
+"Phường Thới An, Quận 12",4.5,Nhà mặt tiền,71.0,2.0,2.0,2.0,Tây Nam,Tây Nam,Sổ hồng,4ce33f63836945e6e4ba52eb8d3b7136
+"Phường Tân Phong, Quận 7",3.9,"Nhà hẻm, ngõ",56.0,4.0,4.0,2.0,,,Sổ hồng,5b97c511cceabeb0d9581754745e28d9
+"Xã An Phú Tây, Huyện Bình Chánh",2.5,Nhà mặt tiền,80.0,3.0,3.0,1.0,,,Sổ hồng,4834ecda8d9d3c6acccf52f82226c002
+"Phường Tân Thới Hòa, Quận Tân Phú",11.0,"Nhà hẻm, ngõ",112.0,4.0,5.0,3.0,,,Sổ hồng,06088bb3b0186f952f940f619f63855f
+"Phường 5, Quận 10",2.97,"Nhà hẻm, ngõ",57.0,4.0,4.0,,,,Sổ hồng,103649aa32cff2ac69d6fe27f3d15ed0
+"Phường 9, Quận 11",2.95,"Nhà hẻm, ngõ",56.0,3.0,4.0,,,,Sổ hồng,694cb6dcbebbeb6b9e97dba74bcb02ac
+"Phường 8, Quận Gò Vấp",5.7,"Nhà hẻm, ngõ",41.0,5.0,6.0,3.0,Đông Bắc,Đông Bắc,Sổ hồng,e19b861f771f37d6e2caeb8341de9b2f
+"Phường 5, Quận Gò Vấp",5.5,"Nhà hẻm, ngõ",40.8,3.0,3.0,3.0,Đông Bắc,Đông Bắc,Sổ hồng,52a94b80c572426a0399de2aecd0adad
+"Phường 7, Quận Gò Vấp",6.95,"Nhà hẻm, ngõ",36.8,4.0,4.0,,Đông,Đông,Sổ hồng,9af1ceaeee095fc4e9fe9e6686bb6e23
+"Phường Tân Thuận Đông, Quận 7",2.6,"Nhà hẻm, ngõ",44.0,3.0,3.0,3.0,,,Sổ hồng,07241d0898d423ad80568105acb660a3
+"Phường 5, Quận Bình Thạnh",2.65,"Nhà hẻm, ngõ",44.0,2.0,3.0,1.0,,,Sổ hồng,cc04999b6d43c55192ca1dfd37c9db94
+"Thị Trấn Hóc Môn, Huyện Hóc Môn",4.7,Đất thổ cư,92.1,,,,Đông,,Sổ hồng,6f4bcafa421eeee9d58c0ccea8825018
+"Phường Long Bình, TP. Thủ Đức - Quận 9",0.99,"Nhà hẻm, ngõ",62.0,3.0,3.0,1.0,,,Sổ hồng,690be837083b342a489646f8736355a9
+"Phường 11, Quận 8",0.89,"Nhà hẻm, ngõ",62.0,3.0,3.0,1.0,,,Sổ hồng,9ec4cc3cd5ca4085f0cff2c37ef770f8
+"Phường Tân Thuận Tây, Quận 7",0.967,"Nhà hẻm, ngõ",65.0,3.0,3.0,1.0,,,Sổ hồng,5901c4df2edbbc6a90c99a6494349cd2
+"Phường 4, Quận Tân Bình",1.21,"Nhà hẻm, ngõ",59.0,3.0,3.0,1.0,,,Sổ hồng,8754cc6dfcf4bfea22b842bc7dd6483f
+"Phường Tăng Nhơn Phú A, TP. Thủ Đức - Quận 9",0.88,"Nhà hẻm, ngõ",67.0,3.0,3.0,1.0,,,Sổ hồng,3043fd602be58abc503c31c3489cce8d
+"Phường 8, Quận 11",0.97,"Nhà hẻm, ngõ",60.0,3.0,2.0,1.0,,,Sổ hồng,c3d3a0a299f7e03ff8a836c429309f19
+"Phường Phú Thạnh, Quận Tân Phú",0.7,"Nhà hẻm, ngõ",58.0,3.0,2.0,1.0,,,Sổ hồng,1001b560497a0fddb38c1fddcd1ab153
+"Phường 16, Quận Gò Vấp",8.5,"Nhà hẻm, ngõ",100.0,3.0,4.0,5.0,,,Sổ hồng,f00fe80e0b7e9904d62e422efe593313
+"Phường Tân Sơn Nhì, Quận Tân Phú",0.875,"Nhà hẻm, ngõ",65.0,3.0,3.0,1.0,,,Sổ hồng,a92ee4e4b9f490c245d25c2c859f9039
+"Phường Phước Long B, TP. Thủ Đức - Quận 9",0.99,"Nhà hẻm, ngõ",62.0,3.0,3.0,,,,Sổ hồng,bcc50f3556350353420b7287dd7000f6
+"Phường 3, Quận 3",9.9,"Nhà hẻm, ngõ",51.0,3.0,3.0,4.0,,,Sổ hồng,22e9d676324674a19c95a26b2f854f37
+"Phường 12, Quận Bình Thạnh",1.02,"Nhà hẻm, ngõ",62.0,3.0,3.0,1.0,,,Sổ hồng,032f5159ab6e290da341350b92040f64
+"Xã Tân Xuân, Huyện Hóc Môn",0.7,"Nhà hẻm, ngõ",72.0,2.0,2.0,,,,Sổ hồng,fc24f08a8d65ab8d5b70820a3325a2ef
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",0.941,"Nhà hẻm, ngõ",60.0,4.0,3.0,2.0,,,Sổ hồng,4f64760e7859f80cd29894a71a1de792
+"Phường Bình Chiểu, TP. Thủ Đức - Quận Thủ Đức",4.5,"Nhà hẻm, ngõ",68.0,,,,,,Sổ hồng,e68cbffdc91e16b33d6073ee66971ac4
+"Phường 5, Quận Gò Vấp",3.95,"Nhà hẻm, ngõ",58.0,4.0,4.0,3.0,,,Sổ hồng,b88e4c96e00cf0e064db22c595fbb901
+"Phường Hiệp Phú, TP. Thủ Đức - Quận 9",1.07,"Nhà hẻm, ngõ",59.0,4.0,3.0,2.0,,,Sổ hồng,cecd6a0fd836082248b8b65877cb9764
+"Phường Thảo Điền, TP. Thủ Đức - Quận 2",1.39,Nhà mặt tiền,65.0,4.0,3.0,,,,Sổ hồng,c7038fc1558f69f252e3895e3353cbc1
+"Phường 4, Quận 8",0.94,"Nhà hẻm, ngõ",55.0,4.0,2.0,2.0,,,Sổ hồng,7cb56fdb892e2cf9e353c264c7998ede
+"Phường Tân Thuận Đông, Quận 7",0.915,"Nhà hẻm, ngõ",60.0,4.0,3.0,2.0,,,Sổ hồng,ff1a4643281f85e3492776d176e50dc7
+"Phường Phước Bình, TP. Thủ Đức - Quận 9",0.99,"Nhà hẻm, ngõ",60.0,4.0,3.0,2.0,,,Sổ hồng,1a8fe7b9687588b0cad3e0cc7eaa1d5b
+"Phường 10, Quận Gò Vấp",0.955,"Nhà hẻm, ngõ",60.0,4.0,3.0,2.0,,,Sổ hồng,045f0f536df0be79c14ba6c6ff5a6bfb
+"Phường 19, Quận Bình Thạnh",1.25,"Nhà hẻm, ngõ",55.0,4.0,3.0,2.0,,,Sổ hồng,04f3912a8de6faaedaf99c235501eb94
+"Phường An Phú, TP. Thủ Đức - Quận 2",0.973,"Nhà hẻm, ngõ",60.0,4.0,3.0,2.0,,,Sổ hồng,71ac9a0d4909d4e9bd7f1d9790362087
+"Phường 3, Quận Bình Thạnh",4.25,"Nhà hẻm, ngõ",65.0,,,,,,Sổ hồng,311a169362c096b7daabbec8fca71b8b
+"Phường Thới An, Quận 12",4.5,Nhà mặt tiền,72.0,3.0,2.0,2.0,Tây Nam,,Sổ hồng,2864704c63f09a9b983bd8fded90fc18
+"Xã Phước Thạnh, Huyện Củ Chi",0.8,Nhà mặt tiền,160.0,,,,,,Sổ hồng,78f25b09e8133274647acafa493ef77a
+"Phường Phú Hữu, TP. Thủ Đức - Quận 9",6.4,"Đất dự án, Khu dân cư",100.0,,,,Tây Bắc,,Sổ đỏ,e753f1cc1584962d81775bcbb5529abc
+"Xã Tân Phú Trung, Huyện Củ Chi",0.62,"Nhà hẻm, ngõ",117.0,2.0,,,,,Sổ hồng,67513a35b28155bab1a7a0f2e33c2904
+"TP. Thủ Đức - Quận 9, TP.HCM",16.79,"Đất dự án, Khu dân cư",280.0,,,,Đông Nam,,Sổ hồng,0b3b3977f38e2f1d216d6c9a359e0413
+"Phường 8, Quận Gò Vấp",1.12,Đất thổ cư,261.0,,,,,,Sổ đỏ,464a94230e84de3eab3673a8369ebc21
+"Phường Phú Trung, Quận Tân Phú",2.89,"Nhà hẻm, ngõ",14.1,1.0,2.0,,Tây,Tây,Sổ hồng,2d1963dd79cecee0c73e9c621338d4c9
+"Phường 7, Quận Phú Nhuận",2.68,"Nhà hẻm, ngõ",66.0,4.0,4.0,,,,Sổ hồng,0c1aa359a7686d84e1836aa04f8af59b
+"Phường 16, Quận 11",2.4,"Nhà hẻm, ngõ",52.0,4.0,4.0,,,,Sổ hồng,47cc1b7a6925e5317a36627cb5053cca
+"Phường Phú Thọ Hòa, Quận Tân Phú",2.1,"Nhà hẻm, ngõ",37.2,4.0,3.0,,,,Sổ hồng,9aeaaf715f20e546b5cd0d16ceb732a5
+"Phường 7, Quận Bình Thạnh",12.3,Đất thổ cư,130.0,,,,,,Sổ hồng,b51cd71306b1530a730b8501a26017e1
+"Phường 2, Quận 3",4.25,"Nhà hẻm, ngõ",60.0,4.0,5.0,3.0,,,Sổ hồng,e0a29af48f28a375735b147cd3e3ef8d
+"Xã Tân Thông Hội, Huyện Củ Chi",0.75,Đất thổ cư,232.0,,,,,,Sổ hồng,ed24d749d9acd3fd1034aeb58199544d
+"Phường 2, Quận 5",5.5,"Nhà hẻm, ngõ",40.0,4.0,2.0,3.0,,,Sổ hồng,69742969fbcc95001b4f309966c4d1cf
+"Phường 16, Quận Gò Vấp",5.7,"Nhà hẻm, ngõ",48.0,4.0,3.0,2.0,,,Sổ hồng,30589e83b944477687bf8aa0d1afebd5
+"Xã Tân Thạnh Đông, Huyện Củ Chi",4.0,Đất thổ cư,400.0,,,,,,Sổ hồng,d3ff30ef9be422f1a0f34436a9a99667
+"Phường 9, Quận 4",8.3,Nhà mặt tiền,18.0,,,,,,Sổ hồng,81d132cefe0e4d177573c9e88e2d2e70
+"Phường 14, Quận Gò Vấp",3.19,"Nhà hẻm, ngõ",24.0,2.0,3.0,3.0,Tây Nam,,Sổ hồng,3889bb16916b61e552e6b45134a4eecf
+"Phường Tăng Nhơn Phú B, TP. Thủ Đức - Quận 9",2.4,"Nhà hẻm, ngõ",40.0,2.0,1.0,,,,Sổ đỏ,bc54746562f39431b79e3bbf69ca5f8f
+"Phường 2, Quận Bình Thạnh",6.0,"Nhà hẻm, ngõ",43.0,4.0,3.0,3.0,,,Sổ hồng,016ba74b4b1a5aec5bcd97f16c8ae986
+"Phường Đông Hưng Thuận, Quận 12",2.4,Đất thổ cư,65.0,,,,,,Sổ hồng,44b1535943f6ff8ec6cc1f344d79008b
+"Phường Đông Hưng Thuận, Quận 12",5.6,"Nhà hẻm, ngõ",64.0,5.0,5.0,4.0,,,Sổ hồng,b08a7a677c4ee620dca26245b3d54a82
+"Phường Phú Thạnh, Quận Tân Phú",17.5,Nhà mặt tiền,145.0,1.0,1.0,1.0,,,Sổ hồng,843d2449b77b44c89792f01dcd424ca9
+"TP. Thủ Đức - Quận 9, TP.HCM",16.0,"Biệt thự, Villa",136.0,4.0,4.0,,Đông Nam,Đông Nam,Sổ hồng,9e4a7534e46b4db153b772a31aaae0a9
+"Phường Long Phước, TP. Thủ Đức - Quận 9",1.86,"Đất dự án, Khu dân cư",57.0,,,,,,Sổ hồng,10b2f52b6b08ffd2db5aa057493f642f
+"Phường 8, Quận Tân Bình",32.0,Nhà mặt tiền,100.0,9.0,7.0,5.0,Tây,,Sổ đỏ,bc469b94436c524bf9073759e64c2261
+"Phường An Lạc, Quận Bình Tân",12.5,Nhà mặt tiền,80.0,4.0,4.0,4.0,Tây,,Sổ đỏ,0388540a9271d79a3aaf223a7b47088e
+"Phường 13, Quận 6",25.0,Nhà mặt tiền,125.0,7.0,7.0,7.0,Tây,,Sổ đỏ,c8fda0b94fcc20900d31c61d69644f8f
+"Phường Bình Trị Đông B, Quận Bình Tân",10.5,Nhà mặt tiền,80.0,5.0,6.0,4.0,Tây,,Sổ đỏ,6b86f9305391c28456e366c85cf412e9
+"Xã Thới Tam Thôn, Huyện Hóc Môn",4.9,Nhà mặt tiền,90.0,2.0,1.0,,,,Sổ hồng,4100025b4e7df9bca84c10beaba765d8
+"Xã Thới Tam Thôn, Huyện Hóc Môn",4.0,Đất thổ cư,88.0,,,,,,Sổ hồng,0c9d0ca041c647f050b9e6d53a9b0be5
+"Phường 15, Quận Tân Bình",7.85,"Nhà hẻm, ngõ",64.0,4.0,3.0,,,,Sổ hồng,dc91daddfa6dd5d6238bcccfe30f0feb
+"Phường 14, Quận Gò Vấp",4.66,"Nhà hẻm, ngõ",42.0,2.0,2.0,1.0,,,Sổ hồng,b0e30de1b167be910e2fa9b6ad74aa13
+"Xã Bình Mỹ, Huyện Củ Chi",1.25,"Đất dự án, Khu dân cư",250.0,,,,,,Sổ hồng,548a8683a2b2b8e80fd9b24534e1083a
+"Phường 16, Quận Gò Vấp",7.89,"Nhà hẻm, ngõ",74.0,,,3.0,,,Sổ hồng,e91a22d21fccb106fdad205ee60fbb5d
+"Phường 8, Quận Tân Bình",1.55,"Nhà hẻm, ngõ",15.0,2.0,,,,,Sổ hồng,b73c4fd8c5598731043aeb2e7ea76ebb
+"Phường 5, Quận Tân Bình",6.1,"Nhà hẻm, ngõ",45.0,,,,,,Sổ hồng,5707b002bd0b991e1c01ff4c67eab8f6
+"Phường 8, Quận Tân Bình",1.55,"Nhà hẻm, ngõ",15.0,,,,,,Sổ hồng,73036eca0fd5cd580c6daf9d503d2788
+"Phường 11, Quận Bình Thạnh",8.0,Nhà mặt tiền,42.0,3.0,3.0,,,,Sổ hồng,9c7596806734a6eb92fd81c0071921ed
+"Phường 15, Quận 5",23.5,Nhà mặt tiền,68.0,,,5.0,,,Sổ hồng,275deb78f9cc8e964a953eb44321d2ba
+"Phường 2, Quận Phú Nhuận",3.39,"Nhà hẻm, ngõ",56.0,4.0,4.0,,,,Sổ hồng,6852e1e20f64cb34fdbd3f04422d8b6a
+"Phường Trường Thọ, TP. Thủ Đức - Quận Thủ Đức",4.5,"Nhà hẻm, ngõ",113.0,4.0,2.0,2.0,Đông Bắc,Đông Bắc,Sổ hồng,c70114dbef15c215d5210127566571a9
+"Xã Tân Kiên, Huyện Bình Chánh",0.98,"Đất dự án, Khu dân cư",80.0,,,,,,Sổ hồng,1e4670ee9b9f088d6dbef5a84de59ca1
+"Phường Linh Chiểu, TP. Thủ Đức - Quận Thủ Đức",7.5,"Nhà hẻm, ngõ",73.0,3.0,,,,,Sổ hồng,1d7a69a6e71b7a50d4a4078903fc4d8b
+"Phường 5, Quận 8",8.0,"Nhà hẻm, ngõ",69.0,4.0,4.0,4.0,Tây,Tây,Sổ hồng,199a87515026bb620f767d4b072eb311
+"Phường Bình Trị Đông, Quận Bình Tân",2.63,"Nhà hẻm, ngõ",40.0,2.0,1.0,,,,Sổ hồng,5c65ca91c8c9858cc658f287855b7dd8
+"Phường Hiệp Tân, Quận Tân Phú",18.0,"Nhà hẻm, ngõ",156.0,33.0,33.0,,,,Sổ hồng,da7dfdf115d33a3efb10ceea25a8398d
+"Phường 4, Quận 4",3.19,"Nhà hẻm, ngõ",64.0,,,,,,Sổ hồng,43d0579de9bf9c0c53896083526bc076
+"Phường 15, Quận Phú Nhuận",9.5,"Nhà hẻm, ngõ",68.0,6.0,7.0,,,,Sổ hồng,67a7193a41930a0d0fc0e49a8daba790
+"Phường 5, Quận 8",6.9,"Nhà hẻm, ngõ",60.0,5.0,6.0,4.0,,,Sổ hồng,29544d882ad7d4813cb93d3814d95c35
+"Phường Tân Phú, TP. Thủ Đức - Quận 9",5.5,"Đất dự án, Khu dân cư",112.0,,,,Đông Nam,,Sổ hồng,c95032be70476887a42584ae0dc85e44
